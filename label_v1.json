@@ -1,0 +1,3379 @@
+{
+    "successful_results": [
+    {
+      "image_filename": "mcocr_public_145013aagqw.jpg",
+      "success": true,
+      "task_id": "a063a422-2ab8-4b5b-9018-4623eb65a089",
+      "scan_result": {
+        "merchant": "UNIQLO Vincom Phạm Ngọc Thạch",
+        "items": [
+          {
+            "sku": "2000137060319",
+            "name": "ÁO THUN",
+            "quantity": 1.0,
+            "unit_price": 149000.0,
+            "total_price": 149000.0
+          },
+          {
+            "sku": "2000137434172",
+            "name": "ÁO THUN",
+            "quantity": 1.0,
+            "unit_price": 199000.0,
+            "total_price": 199000.0
+          },
+          {
+            "sku": "2000139080131",
+            "name": "ÁO SƠ-MI",
+            "quantity": 1.0,
+            "unit_price": 499000.0,
+            "total_price": 499000.0
+          },
+          {
+            "sku": "2000137589353",
+            "name": "ÁO THUN",
+            "quantity": 1.0,
+            "unit_price": 249000.0,
+            "total_price": 249000.0
+          },
+          {
+            "sku": "2000141864590",
+            "name": "QUẦN DÀI",
+            "quantity": 1.0,
+            "unit_price": 249000.0,
+            "total_price": 249000.0
+          },
+          {
+            "sku": "2000142115066",
+            "name": "QUẦN SHORT",
+            "quantity": 1.0,
+            "unit_price": 499000.0,
+            "total_price": 499000.0
+          },
+          {
+            "sku": "2000139501377",
+            "name": "ĐẦM PONTE",
+            "quantity": 1.0,
+            "unit_price": 249000.0,
+            "total_price": 249000.0
+          },
+          {
+            "sku": "2000138510042",
+            "name": "ĐẦM RAYON",
+            "quantity": 1.0,
+            "unit_price": 399000.0,
+            "total_price": 399000.0
+          }
+        ],
+        "total_quantity": 8.0,
+        "total_payment": 2442000.0,
+        "receipt_date": "2020-08-01T20:13:00"
+      },
+      "timestamp": "2025-06-16T08:29:49.154957",
+      "processing_time_seconds": 24
+    },
+    {
+      "image_filename": "mcocr_public_145013aaprl.jpg",
+      "success": true,
+      "task_id": "f3cbdf2f-c337-4fc7-a9c1-b2caaef58e6e",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "2600981004080",
+            "name": "Bơ đặc biệt",
+            "quantity": 1.0,
+            "unit_price": 52700.0,
+            "total_price": 21502.0
+          },
+          {
+            "sku": "8934673304528",
+            "name": "SCO đường Probi VNM L4 chai x130ml",
+            "quantity": 2.0,
+            "unit_price": 34300.0,
+            "total_price": 68600.0
+          }
+        ],
+        "total_quantity": 3.0,
+        "total_payment": 81302.0,
+        "receipt_date": "2020-08-14T17:23:00"
+      },
+      "timestamp": "2025-06-16T08:29:36.010224",
+      "processing_time_seconds": 11
+    },
+    {
+      "image_filename": "mcocr_public_145013acjke.jpg",
+      "success": true,
+      "task_id": "6d9856ee-d437-46e0-9819-aea0eeb3d07c",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "8938500075117",
+            "name": "Măng Lay Tây Bắc Kim Bôi 300g",
+            "quantity": 1.0,
+            "unit_price": 35000.0,
+            "total_price": 35000.0
+          },
+          {
+            "sku": "8936013233918",
+            "name": "SG Food Nước Dùng Cơm Vị Lẩu Thái 150g",
+            "quantity": 1.0,
+            "unit_price": 17700.0,
+            "total_price": 17700.0
+          }
+        ],
+        "total_quantity": 2.0,
+        "total_payment": 52700.0,
+        "receipt_date": "2020-08-14T16:22:00"
+      },
+      "timestamp": "2025-06-16T08:29:47.142020",
+      "processing_time_seconds": 11
+    },
+    {
+      "image_filename": "mcocr_public_145013adyee.jpg",
+      "success": true,
+      "task_id": "701af549-da6b-45dc-8a70-4e1b30a40f98",
+      "scan_result": {
+        "merchant": "MINIMART ANAN",
+        "items": [
+          {
+            "sku": "8934988020021",
+            "name": "Dầu simply 1L NT",
+            "quantity": 1.0,
+            "unit_price": 45000.0,
+            "total_price": 45000.0
+          },
+          {
+            "sku": "291032310000",
+            "name": "Kẹo socola cá xinh việt thá NO",
+            "quantity": 1.0,
+            "unit_price": 26000.0,
+            "total_price": 26000.0
+          },
+          {
+            "sku": "8992760223015",
+            "name": "Bánh OREO 137g NT",
+            "quantity": 2.0,
+            "unit_price": 13000.0,
+            "total_price": 26000.0
+          },
+          {
+            "sku": "291038440000",
+            "name": "Kẹo ty ty to 70g N0",
+            "quantity": 1.0,
+            "unit_price": 10000.0,
+            "total_price": 10000.0
+          }
+        ],
+        "total_quantity": 5.0,
+        "total_payment": 107000.0,
+        "receipt_date": "2020-08-09T17:23:00"
+      },
+      "timestamp": "2025-06-16T08:30:01.337595",
+      "processing_time_seconds": 14
+    },
+    {
+      "image_filename": "mcocr_public_145013aedmq.jpg",
+      "success": true,
+      "task_id": "661270ea-d1df-44e9-8785-bbfdd8d078ea",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [],
+        "total_quantity": 0.0,
+        "total_payment": 0.0,
+        "receipt_date": "2020-08-15T10:41:00"
+      },
+      "timestamp": "2025-06-16T08:29:57.257033",
+      "processing_time_seconds": 8
+    },
+    {
+      "image_filename": "mcocr_public_145013aeriv.jpg",
+      "success": true,
+      "task_id": "09c0982b-3461-4a88-986a-354726aff1c9",
+      "scan_result": {
+        "merchant": "MINIMART ANAN",
+        "items": [
+          {
+            "sku": "291042690000",
+            "name": "bịch mì tôm trẻ em 50 gói N0",
+            "quantity": 1.0,
+            "unit_price": 30000.0,
+            "total_price": 30000.0
+          },
+          {
+            "sku": "291007930000",
+            "name": "Sữa chua đường VNM 100g NT",
+            "quantity": 4.0,
+            "unit_price": 5250.0,
+            "total_price": 21000.0
+          },
+          {
+            "sku": "8850006932278",
+            "name": "KDR Colgate trẻ em NT",
+            "quantity": 1.0,
+            "unit_price": 6000.0,
+            "total_price": 6000.0
+          },
+          {
+            "sku": "8888021200157",
+            "name": "đôi pin energizer max NO",
+            "quantity": 2.0,
+            "unit_price": 18000.0,
+            "total_price": 36000.0
+          },
+          {
+            "sku": "291012820000",
+            "name": "bin con thỏ 1 đôi NT",
+            "quantity": 2.0,
+            "unit_price": 3000.0,
+            "total_price": 6000.0
+          }
+        ],
+        "total_quantity": 10.0,
+        "total_payment": 99000.0,
+        "receipt_date": "2025-06-16T08:30:12.864214"
+      },
+      "timestamp": "2025-06-16T08:30:13.516660",
+      "processing_time_seconds": 16
+    },
+    {
+      "image_filename": "mcocr_public_145013ahfqj.jpg",
+      "success": true,
+      "task_id": "a9cad186-24a9-448a-adbc-ccde8c43eb0d",
+      "scan_result": {
+        "merchant": "THỨC COFFEE",
+        "items": [
+          {
+            "sku": null,
+            "name": "COFFEE WITH MILK ICE",
+            "quantity": 1.0,
+            "unit_price": 35000.0,
+            "total_price": 35000.0
+          }
+        ],
+        "total_quantity": 1.0,
+        "total_payment": 35000.0,
+        "receipt_date": "2019-03-17T09:31:00"
+      },
+      "timestamp": "2025-06-16T08:30:09.448059",
+      "processing_time_seconds": 8
+    },
+    {
+      "image_filename": "mcocr_public_145013aisfu.jpg",
+      "success": true,
+      "task_id": "3fdd1316-e46d-49df-ab5f-9503be429ab2",
+      "scan_result": {
+        "merchant": "SCTC Cô Thỏ 104 Trần Phú - Cẩm Phả",
+        "items": [
+          {
+            "sku": "",
+            "name": "Sữa chua kiwi",
+            "quantity": 1.0,
+            "unit_price": 35000.0,
+            "total_price": 35000.0
+          },
+          {
+            "sku": "",
+            "name": "Sữa chua nha đam",
+            "quantity": 1.0,
+            "unit_price": 30000.0,
+            "total_price": 30000.0
+          },
+          {
+            "sku": "",
+            "name": "Sữa chua việt quất",
+            "quantity": 1.0,
+            "unit_price": 35000.0,
+            "total_price": 35000.0
+          },
+          {
+            "sku": "",
+            "name": "Sữa chua hoa quả",
+            "quantity": 1.0,
+            "unit_price": 35000.0,
+            "total_price": 35000.0
+          }
+        ],
+        "total_quantity": 4.0,
+        "total_payment": 135000.0,
+        "receipt_date": "2020-08-10T19:58:00"
+      },
+      "timestamp": "2025-06-16T08:30:21.645609",
+      "processing_time_seconds": 12
+    },
+    {
+      "image_filename": "mcocr_public_145013alpyf.jpg",
+      "success": true,
+      "task_id": "d91a47f5-ef0b-4aa3-ad2b-b133b8a85495",
+      "scan_result": {
+        "merchant": "MINIMART ANAN",
+        "items": [
+          {
+            "sku": "8934673172196",
+            "name": "sữa bột dielac grow plus 1+ NT",
+            "quantity": 1.0,
+            "unit_price": 285000.0,
+            "total_price": 285000.0
+          },
+          {
+            "sku": "8934588192111",
+            "name": "cam ép Twister Ion 320ml NT",
+            "quantity": 6.0,
+            "unit_price": 7500.0,
+            "total_price": 45000.0
+          },
+          {
+            "sku": "8856396912586",
+            "name": "kẹo cao su huge bubble 50g NT",
+            "quantity": 1.0,
+            "unit_price": 15000.0,
+            "total_price": 15000.0
+          }
+        ],
+        "total_quantity": 8.0,
+        "total_payment": 345000.0,
+        "receipt_date": "2020-08-09T07:53:00"
+      },
+      "timestamp": "2025-06-16T08:30:30.749740",
+      "processing_time_seconds": 17
+    },
+    {
+      "image_filename": "mcocr_public_145013alybg.jpg",
+      "success": true,
+      "task_id": "12b73cf0-d136-496e-a01d-7d14cf7c4ce8",
+      "scan_result": {
+        "merchant": "MINIMART ANAN",
+        "items": [
+          {
+            "sku": "8934561030300",
+            "name": "Cháo vifon gà 70g NT",
+            "quantity": 3.0,
+            "unit_price": 6000.0,
+            "total_price": 18000.0
+          },
+          {
+            "sku": "8934696000698",
+            "name": "Xúc xích Everyday hạ long NT",
+            "quantity": 2.0,
+            "unit_price": 25000.0,
+            "total_price": 50000.0
+          },
+          {
+            "sku": "291042780000",
+            "name": "Muối chấm hảo hảo xịn N0",
+            "quantity": 1.0,
+            "unit_price": 17000.0,
+            "total_price": 17000.0
+          },
+          {
+            "sku": "291008000000",
+            "name": "SDT hazeline matcha lựu đỏ NT",
+            "quantity": 1.0,
+            "unit_price": 50000.0,
+            "total_price": 50000.0
+          },
+          {
+            "sku": "8936136160665",
+            "name": "Mắm nam ngư 500ml NT",
+            "quantity": 1.0,
+            "unit_price": 23000.0,
+            "total_price": 23000.0
+          },
+          {
+            "sku": "291008920000",
+            "name": "ST enchanteur 200g NT",
+            "quantity": 1.0,
+            "unit_price": 45000.0,
+            "total_price": 45000.0
+          },
+          {
+            "sku": "8935047600239",
+            "name": "Thuốc lá Thăng Long mềm NT",
+            "quantity": 1.0,
+            "unit_price": 8500.0,
+            "total_price": 8500.0
+          }
+        ],
+        "total_quantity": 10.0,
+        "total_payment": 211500.0,
+        "receipt_date": "2020-08-16T17:21:00"
+      },
+      "timestamp": "2025-06-16T08:30:47.978233",
+      "processing_time_seconds": 26
+    },
+    {
+      "image_filename": "mcocr_public_145013amzul.jpg",
+      "success": true,
+      "task_id": "b3a6ad79-b6b5-477b-9912-d4359a75516b",
+      "scan_result": {
+        "merchant": "MINIMART ANAN",
+        "items": [
+          {
+            "sku": "291008420000",
+            "name": "SDN Fami gói 200ml NT",
+            "quantity": 5.0,
+            "unit_price": 3300.0,
+            "total_price": 16500.0
+          },
+          {
+            "sku": "291000650000",
+            "name": "Bim Marinboy các màu 30g NT",
+            "quantity": 1.0,
+            "unit_price": 9000.0,
+            "total_price": 9000.0
+          },
+          {
+            "sku": "8934762070402",
+            "name": "Kẹo mút pop NT",
+            "quantity": 1.0,
+            "unit_price": 7000.0,
+            "total_price": 7000.0
+          },
+          {
+            "sku": "8934595060564",
+            "name": "Kẹo chip chip pooz 100g NT",
+            "quantity": 1.0,
+            "unit_price": 8000.0,
+            "total_price": 8000.0
+          },
+          {
+            "sku": "8934696000698",
+            "name": "Xúc xích Everyday Hạ Long NT",
+            "quantity": 1.0,
+            "unit_price": 25000.0,
+            "total_price": 25000.0
+          },
+          {
+            "sku": "291009650000",
+            "name": "Trà xanh 0 độ 500ml NT",
+            "quantity": 2.0,
+            "unit_price": 7500.0,
+            "total_price": 15000.0
+          },
+          {
+            "sku": "291012070000",
+            "name": "Bia 333 NT",
+            "quantity": 2.0,
+            "unit_price": 10500.0,
+            "total_price": 21000.0
+          },
+          {
+            "sku": "291009420000",
+            "name": "Thuốc lá Thăng Long mềm NT",
+            "quantity": 1.0,
+            "unit_price": 8500.0,
+            "total_price": 8500.0
+          },
+          {
+            "sku": "291001650000",
+            "name": "Bật lửa NT",
+            "quantity": 1.0,
+            "unit_price": 2000.0,
+            "total_price": 2000.0
+          }
+        ],
+        "total_quantity": 15.0,
+        "total_payment": 112000.0,
+        "receipt_date": "2020-08-09T09:17:00"
+      },
+      "timestamp": "2025-06-16T08:30:55.087090",
+      "processing_time_seconds": 24
+    },
+    {
+      "image_filename": "mcocr_public_145013anmiz.jpg",
+      "success": true,
+      "task_id": "a17e5226-119b-4c44-b629-059f88d58d57",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "2603113006068",
+            "name": "Rau muống L1 Vineco",
+            "quantity": 0.606,
+            "unit_price": 24000.0,
+            "total_price": 14544.0
+          }
+        ],
+        "total_quantity": 1.0,
+        "total_payment": 14544.0,
+        "receipt_date": "2020-08-12T12:00:00"
+      },
+      "timestamp": "2025-06-16T08:30:57.126411",
+      "processing_time_seconds": 9
+    },
+    {
+      "image_filename": "mcocr_public_145013apigo.jpg",
+      "success": true,
+      "task_id": "1bbff19b-f690-423f-afeb-7f6c8a02230f",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "8935136801370",
+            "name": "X-MEN Tắm gội 2in1wood 650g",
+            "quantity": 1.0,
+            "unit_price": 164000.0,
+            "total_price": 164000.0
+          },
+          {
+            "sku": "8935006531956",
+            "name": "OXY Kem rửa mặt tác động sau 100g",
+            "quantity": 1.0,
+            "unit_price": 72000.0,
+            "total_price": 72000.0
+          },
+          {
+            "sku": "8935136860858",
+            "name": "X-MEN Sáp vuốt tóc boss spiky 70g",
+            "quantity": 1.0,
+            "unit_price": 73000.0,
+            "total_price": 73000.0
+          }
+        ],
+        "total_quantity": 3.0,
+        "total_payment": 309000.0,
+        "receipt_date": "2020-08-12T18:13:00"
+      },
+      "timestamp": "2025-06-16T08:31:07.269095",
+      "processing_time_seconds": 12
+    },
+    {
+      "image_filename": "mcocr_public_145013aqeha.jpg",
+      "success": true,
+      "task_id": "4c41ba27-bd30-439a-92e2-b884eaa17c03",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "8935217400126",
+            "name": "Sữa TTT TH True Milk có đường hộp 1L",
+            "quantity": 1.0,
+            "unit_price": 35500.0,
+            "total_price": 35500.0
+          },
+          {
+            "sku": "69024894",
+            "name": "SNICKERS Kẹo Socola 35g (T216)",
+            "quantity": 1.0,
+            "unit_price": 13400.0,
+            "total_price": 13400.0
+          }
+        ],
+        "total_quantity": 2.0,
+        "total_payment": 48900.0,
+        "receipt_date": "2020-08-17T06:28:00"
+      },
+      "timestamp": "2025-06-16T08:31:09.304219",
+      "processing_time_seconds": 12
+    },
+    {
+      "image_filename": "mcocr_public_145013aqosh.jpg",
+      "success": true,
+      "task_id": "9c1166fd-0791-4cb5-afd0-b72db61d818a",
+      "scan_result": {
+        "merchant": "VinCommerce - VM+ QNH 86 Trần Phú",
+        "items": [
+          {
+            "sku": "8934954005779",
+            "name": "VMGOOD Bột chiên giòn sẵn gia vị 150gT60",
+            "quantity": 1.0,
+            "unit_price": 7800.0,
+            "total_price": 7800.0
+          }
+        ],
+        "total_quantity": 1.0,
+        "total_payment": 7800.0,
+        "receipt_date": "2020-08-10T10:50:00"
+      },
+      "timestamp": "2025-06-16T08:31:16.425862",
+      "processing_time_seconds": 9
+    },
+    {
+      "image_filename": "mcocr_public_145013arxqp.jpg",
+      "success": true,
+      "task_id": "3562e3a3-2978-4b17-ba66-048d186edd66",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "8935058962029",
+            "name": "CP Thịt đùi heo (Mông sấn) 300g",
+            "quantity": 1.0,
+            "unit_price": 46500.0,
+            "total_price": 46500.0
+          },
+          {
+            "sku": "1100015000015",
+            "name": "Tim gà CP 500g",
+            "quantity": 1.0,
+            "unit_price": 75900.0,
+            "total_price": 75900.0
+          }
+        ],
+        "total_quantity": 2.0,
+        "total_payment": 122400.0,
+        "receipt_date": "2020-08-15T10:28:00"
+      },
+      "timestamp": "2025-06-16T08:31:19.476267",
+      "processing_time_seconds": 10
+    },
+    {
+      "image_filename": "mcocr_public_145013atlmq.jpg",
+      "success": true,
+      "task_id": "b2745fc1-f8c4-46cb-9ac7-1f8f881a89c6",
+      "scan_result": {
+        "merchant": "MINIMART ANAN",
+        "items": [
+          {
+            "sku": "8934760219308",
+            "name": "Bánh tipo salsa 360g NT",
+            "quantity": 1.0,
+            "unit_price": 33000.0,
+            "total_price": 33000.0
+          },
+          {
+            "sku": "8934677000327",
+            "name": "Kẹo cao su xyliton vỉ 6k NT",
+            "quantity": 1.0,
+            "unit_price": 6000.0,
+            "total_price": 6000.0
+          },
+          {
+            "sku": "9556296303406",
+            "name": "Kẹo Lot 100 150g NT",
+            "quantity": 1.0,
+            "unit_price": 33000.0,
+            "total_price": 33000.0
+          },
+          {
+            "sku": "8992741941303",
+            "name": "Kẹo yupi 108g NT",
+            "quantity": 1.0,
+            "unit_price": 21000.0,
+            "total_price": 21000.0
+          },
+          {
+            "sku": "8936096670075",
+            "name": "Bánh gạo one one ngọt 230g NT",
+            "quantity": 1.0,
+            "unit_price": 19000.0,
+            "total_price": 19000.0
+          },
+          {
+            "sku": "291006370000",
+            "name": "Nước coca 1.5l NT",
+            "quantity": 1.0,
+            "unit_price": 15000.0,
+            "total_price": 15000.0
+          }
+        ],
+        "total_quantity": 6.0,
+        "total_payment": 127000.0,
+        "receipt_date": "2020-08-16T17:18:00"
+      },
+      "timestamp": "2025-06-16T08:31:34.717936",
+      "processing_time_seconds": 18
+    },
+    {
+      "image_filename": "mcocr_public_145013atnil.jpg",
+      "success": true,
+      "task_id": "ac6d84bd-5621-4b58-a95c-621e3898b28c",
+      "scan_result": {
+        "merchant": "Cửa hàng Năm Oánh",
+        "items": [
+          {
+            "sku": "",
+            "name": "NG Ariel Dịu nhẹ 3.1L",
+            "quantity": 1.0,
+            "unit_price": 145000.0,
+            "total_price": 145000.0
+          },
+          {
+            "sku": "",
+            "name": "BVS Sensi Cool mỏng cánh 8m",
+            "quantity": 1.0,
+            "unit_price": 18500.0,
+            "total_price": 18500.0
+          },
+          {
+            "sku": "",
+            "name": "BVS Diana dày kẻ siêu thấm",
+            "quantity": 1.0,
+            "unit_price": 14500.0,
+            "total_price": 14500.0
+          }
+        ],
+        "total_quantity": 3.0,
+        "total_payment": 178000.0,
+        "receipt_date": "2020-08-12T00:00:00"
+      },
+      "timestamp": "2025-06-16T08:31:31.657952",
+      "processing_time_seconds": 12
+    },
+    {
+      "image_filename": "mcocr_public_145013aukcu.jpg",
+      "success": true,
+      "task_id": "fb0ece62-1ccb-43b3-9fb5-463bc162003d",
+      "scan_result": {
+        "merchant": "Cửa hàng Năm Oánh",
+        "items": [
+          {
+            "sku": "",
+            "name": "Đường tinh luyện xuất khẩu 1kg",
+            "quantity": 1.0,
+            "unit_price": 14000.0,
+            "total_price": 14000.0
+          },
+          {
+            "sku": "",
+            "name": "Dầu Cái Lân 2L",
+            "quantity": 1.0,
+            "unit_price": 49000.0,
+            "total_price": 49000.0
+          }
+        ],
+        "total_quantity": 2.0,
+        "total_payment": 63000.0,
+        "receipt_date": "2020-08-12T00:00:00"
+      },
+      "timestamp": "2025-06-16T08:31:41.829805",
+      "processing_time_seconds": 10
+    },
+    {
+      "image_filename": "mcocr_public_145013auohz.jpg",
+      "success": true,
+      "task_id": "1f469b5a-556a-4892-ad49-6b28ea74da80",
+      "scan_result": {
+        "merchant": "NHÀ SÁCH GD-TC CẨM PHẢ",
+        "items": [
+          {
+            "sku": "",
+            "name": "Tẩy 1196E",
+            "quantity": 1.0,
+            "unit_price": 22000.0,
+            "total_price": 22000.0
+          },
+          {
+            "sku": "",
+            "name": "Gấp hạc",
+            "quantity": 1.0,
+            "unit_price": 40000.0,
+            "total_price": 40000.0
+          },
+          {
+            "sku": "",
+            "name": "10 vạn câu hỏi vì",
+            "quantity": 1.0,
+            "unit_price": 32000.0,
+            "total_price": 32000.0
+          },
+          {
+            "sku": "",
+            "name": "Nàng tiên cá",
+            "quantity": 1.0,
+            "unit_price": 12000.0,
+            "total_price": 12000.0
+          }
+        ],
+        "total_quantity": 4.0,
+        "total_payment": 106000.0,
+        "receipt_date": "2020-08-14T21:07:00"
+      },
+      "timestamp": "2025-06-16T08:31:46.917705",
+      "processing_time_seconds": 12
+    },
+    {
+      "image_filename": "mcocr_public_145013avtwc.jpg",
+      "success": true,
+      "task_id": "aa962db4-85f4-4447-a5c2-96fb329d47cd",
+      "scan_result": {
+        "merchant": "Không rõ",
+        "items": [
+          {
+            "sku": "",
+            "name": "Tiền mặt",
+            "quantity": 1.0,
+            "unit_price": 24157008.0,
+            "total_price": 24157008.0
+          },
+          {
+            "sku": "",
+            "name": "Biên nhận thanh toán VinID",
+            "quantity": 1.0,
+            "unit_price": 486000.0,
+            "total_price": 486000.0
+          },
+          {
+            "sku": "",
+            "name": "Phiếu quà tặng",
+            "quantity": 1.0,
+            "unit_price": 960126.0,
+            "total_price": 960126.0
+          },
+          {
+            "sku": "",
+            "name": "Ví điện tử của VinID Pay",
+            "quantity": 1.0,
+            "unit_price": 427116.0,
+            "total_price": 427116.0
+          }
+        ],
+        "total_quantity": 4.0,
+        "total_payment": 26032250.0,
+        "receipt_date": "2023-06-13T22:07:00"
+      },
+      "timestamp": "2025-06-16T08:31:54.012743",
+      "processing_time_seconds": 12
+    },
+    {
+      "image_filename": "mcocr_public_145013awcbh.jpg",
+      "success": true,
+      "task_id": "323ef386-e44e-4952-9c0b-4123b202cd46",
+      "scan_result": {
+        "merchant": "NHÀ SÁCH GD-TC CẨM PHẢ",
+        "items": [
+          {
+            "sku": "",
+            "name": "Vở ô ly có mẫu chữ",
+            "quantity": 1.0,
+            "unit_price": 17000.0,
+            "total_price": 17000.0
+          },
+          {
+            "sku": "",
+            "name": "Luyện viết 1/1",
+            "quantity": 1.0,
+            "unit_price": 9000.0,
+            "total_price": 9000.0
+          },
+          {
+            "sku": "",
+            "name": "Bút máy M&G",
+            "quantity": 1.0,
+            "unit_price": 16000.0,
+            "total_price": 16000.0
+          }
+        ],
+        "total_quantity": 3.0,
+        "total_payment": 42000.0,
+        "receipt_date": "2020-08-11T09:31:00"
+      },
+      "timestamp": "2025-06-16T08:31:57.058111",
+      "processing_time_seconds": 10
+    },
+    {
+      "image_filename": "mcocr_public_145013azaup.jpg",
+      "success": true,
+      "task_id": "e6101af7-160e-4086-b5e6-d83492ffe944",
+      "scan_result": {
+        "merchant": "MINIMART ANAN",
+        "items": [
+          {
+            "sku": "8934609209408",
+            "name": "Bánh Bibica",
+            "quantity": 1.0,
+            "unit_price": 85000.0,
+            "total_price": 85000.0
+          }
+        ],
+        "total_quantity": 1.0,
+        "total_payment": 85000.0,
+        "receipt_date": "2020-08-12T12:22:00"
+      },
+      "timestamp": "2025-06-16T08:32:02.141836",
+      "processing_time_seconds": 8
+    },
+    {
+      "image_filename": "mcocr_public_145013bajyy.jpg",
+      "success": true,
+      "task_id": "c28f6013-fa00-409d-a3cd-3cd53f2fe950",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "8935058962067",
+            "name": "CP Xương ông 500g",
+            "quantity": 8.0,
+            "unit_price": 20000.0,
+            "total_price": 160000.0
+          }
+        ],
+        "total_quantity": 8.0,
+        "total_payment": 160000.0,
+        "receipt_date": "2020-08-14T08:29:00"
+      },
+      "timestamp": "2025-06-16T08:32:05.191857",
+      "processing_time_seconds": 8
+    },
+    {
+      "image_filename": "mcocr_public_145013bchvc.jpg",
+      "success": true,
+      "task_id": "64aa05c2-dfeb-4789-8e69-01b125e88908",
+      "scan_result": {
+        "merchant": "NHÀ SÁCH GD-TC CẨM PHẢ",
+        "items": [
+          {
+            "sku": "",
+            "name": "Bút TL 093",
+            "quantity": 1.0,
+            "unit_price": 55000.0,
+            "total_price": 55000.0
+          },
+          {
+            "sku": "",
+            "name": "Bút Gel-012",
+            "quantity": 3.0,
+            "unit_price": 6000.0,
+            "total_price": 18000.0
+          },
+          {
+            "sku": "",
+            "name": "Bút TR1",
+            "quantity": 1.0,
+            "unit_price": 4000.0,
+            "total_price": 4000.0
+          },
+          {
+            "sku": "",
+            "name": "Bút lông kim FL-09",
+            "quantity": 1.0,
+            "unit_price": 7000.0,
+            "total_price": 7000.0
+          }
+        ],
+        "total_quantity": 6.0,
+        "total_payment": 84000.0,
+        "receipt_date": "2020-08-14T16:40:00"
+      },
+      "timestamp": "2025-06-16T08:32:14.364823",
+      "processing_time_seconds": 12
+    },
+    {
+      "image_filename": "mcocr_public_145013bcovr.jpg",
+      "success": true,
+      "task_id": "c62b5ad6-582c-47dd-8cdb-1229de17dc79",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "1100015000015",
+            "name": "Tim gà CP 500g",
+            "quantity": 1.0,
+            "unit_price": 75900.0,
+            "total_price": 75900.0
+          }
+        ],
+        "total_quantity": 1.0,
+        "total_payment": 75900.0,
+        "receipt_date": "2020-08-15T10:59:00"
+      },
+      "timestamp": "2025-06-16T08:32:14.360324",
+      "processing_time_seconds": 9
+    },
+    {
+      "image_filename": "mcocr_public_145013bdnvs.jpg",
+      "success": true,
+      "task_id": "8a24f68e-4950-47ca-b637-05746aeda412",
+      "scan_result": {
+        "merchant": "MINIMART ANAN",
+        "items": [
+          {
+            "sku": "8934673196192",
+            "name": "Sữa bột dielac Grow 2+ 900g NT",
+            "quantity": 1.0,
+            "unit_price": 217000.0,
+            "total_price": 217000.0
+          },
+          {
+            "sku": "291022440000",
+            "name": "bánh mì nhokđ NT",
+            "quantity": 2.0,
+            "unit_price": 4500.0,
+            "total_price": 9000.0
+          }
+        ],
+        "total_quantity": 3.0,
+        "total_payment": 226000.0,
+        "receipt_date": "2020-08-13T17:35:00"
+      },
+      "timestamp": "2025-06-16T08:32:28.609716",
+      "processing_time_seconds": 14
+    },
+    {
+      "image_filename": "mcocr_public_145013bfddt.jpg",
+      "success": true,
+      "task_id": "f8cbb0e5-244f-4436-b8af-f4422e98c12a",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "89350407600239",
+            "name": "Thăng Long bao mềm",
+            "quantity": 1.0,
+            "unit_price": 10000.0,
+            "total_price": 10000.0
+          }
+        ],
+        "total_quantity": 1.0,
+        "total_payment": 10000.0,
+        "receipt_date": "2020-08-14T21:31:00"
+      },
+      "timestamp": "2025-06-16T08:33:04.060252",
+      "processing_time_seconds": 49
+    },
+    {
+      "image_filename": "mcocr_public_145013bgfxq.jpg",
+      "success": true,
+      "task_id": "ebfe5e6d-b592-4b01-a9ef-3c622e4225b7",
+      "scan_result": {
+        "merchant": "NHÀ SÁCH GD-TC CẨM PHẢ",
+        "items": [
+          {
+            "sku": "",
+            "name": "ruột chì khúc M&G",
+            "quantity": 2.0,
+            "unit_price": 6000.0,
+            "total_price": 12000.0
+          }
+        ],
+        "total_quantity": 2.0,
+        "total_payment": 12000.0,
+        "receipt_date": "2020-08-09T17:48:00"
+      },
+      "timestamp": "2025-06-16T08:32:36.717469",
+      "processing_time_seconds": 8
+    },
+    {
+      "image_filename": "mcocr_public_145013bjvsn.jpg",
+      "success": true,
+      "task_id": "db88ebd7-216e-4e57-9039-a8715bccc200",
+      "scan_result": {
+        "merchant": "SCTC Cô Thỏ 104 Trần Phú - Cẩm Phả",
+        "items": [
+          {
+            "sku": "",
+            "name": "Sữa chua thạch matcha",
+            "quantity": 1.0,
+            "unit_price": 25000.0,
+            "total_price": 25000.0
+          },
+          {
+            "sku": "",
+            "name": "Sữa chua việt quất",
+            "quantity": 1.0,
+            "unit_price": 35000.0,
+            "total_price": 35000.0
+          },
+          {
+            "sku": "",
+            "name": "Sữa chua cacao",
+            "quantity": 1.0,
+            "unit_price": 25000.0,
+            "total_price": 25000.0
+          }
+        ],
+        "total_quantity": 3.0,
+        "total_payment": 85000.0,
+        "receipt_date": "2020-08-10T21:49:00"
+      },
+      "timestamp": "2025-06-16T08:32:46.837271",
+      "processing_time_seconds": 10
+    },
+    {
+      "image_filename": "mcocr_public_145013bkcgv.jpg",
+      "success": true,
+      "task_id": "2b76398a-a892-4d3a-b406-4ed6f4c9bfb0",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "8857104680810",
+            "name": "Kẹo trái cây vị vải 25g",
+            "quantity": 1.0,
+            "unit_price": 10500.0,
+            "total_price": 10500.0
+          }
+        ],
+        "total_quantity": 1.0,
+        "total_payment": 10500.0,
+        "receipt_date": "2020-08-13T10:19:00"
+      },
+      "timestamp": "2025-06-16T08:32:54.949670",
+      "processing_time_seconds": 8
+    },
+    {
+      "image_filename": "mcocr_public_145013blbqm.jpg",
+      "success": true,
+      "task_id": "5d227e08-3c5c-4669-889f-d12245a912c6",
+      "scan_result": {
+        "merchant": "MINIMART ANAN",
+        "items": [
+          {
+            "sku": "8935060600018",
+            "name": "Thạch rau câu Long Hải g?i NT",
+            "quantity": 1.0,
+            "unit_price": 13000.0,
+            "total_price": 13000.0
+          },
+          {
+            "sku": "291020080000",
+            "name": "Hướng dương 0.4kg NT",
+            "quantity": 1.0,
+            "unit_price": 25000.0,
+            "total_price": 25000.0
+          },
+          {
+            "sku": "8938502879485",
+            "name": "Ngô nếp tươi sấy gói 160g m NT",
+            "quantity": 1.0,
+            "unit_price": 25000.0,
+            "total_price": 25000.0
+          }
+        ],
+        "total_quantity": 3.0,
+        "total_payment": 63000.0,
+        "receipt_date": "2020-08-09T20:46:00"
+      },
+      "timestamp": "2025-06-16T08:33:07.113075",
+      "processing_time_seconds": 12
+    },
+    {
+      "image_filename": "mcocr_public_145013bldqx.jpg",
+      "success": true,
+      "task_id": "5af6ee0d-6b2f-472d-b3e3-cce9106e68aa",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "8935058962104",
+            "name": "CP Thịt heo xay 300g",
+            "quantity": 2.0,
+            "unit_price": 49500.0,
+            "total_price": 99000.0
+          }
+        ],
+        "total_quantity": 2.0,
+        "total_payment": 99000.0,
+        "receipt_date": "2020-08-15T10:28:00"
+      },
+      "timestamp": "2025-06-16T08:33:14.228581",
+      "processing_time_seconds": 10
+    },
+    {
+      "image_filename": "mcocr_public_145013blmgu.jpg",
+      "success": true,
+      "task_id": "1b04c902-04df-4bca-94e2-5041412393cd",
+      "scan_result": {
+        "merchant": "MINIMART ANAN",
+        "items": [
+          {
+            "sku": "8936103590563",
+            "name": "bột ớt kim chi hàn quốc 100 NT",
+            "quantity": 1.0,
+            "unit_price": 25000.0,
+            "total_price": 25000.0
+          },
+          {
+            "sku": "2910008340000",
+            "name": "SCU susu chai cam VNM 80ml NT",
+            "quantity": 12.0,
+            "unit_price": 4000.0,
+            "total_price": 48000.0
+          },
+          {
+            "sku": "291007180000",
+            "name": "Sữa đàn bò VNM đường 180ml NT",
+            "quantity": 8.0,
+            "unit_price": 7250.0,
+            "total_price": 58000.0
+          },
+          {
+            "sku": "8938504306552",
+            "name": "đậu phộng cốt dừa thành côn N0",
+            "quantity": 1.0,
+            "unit_price": 14000.0,
+            "total_price": 14000.0
+          }
+        ],
+        "total_quantity": 22.0,
+        "total_payment": 145000.0,
+        "receipt_date": "2020-08-13T18:15:00"
+      },
+      "timestamp": "2025-06-16T08:33:22.321356",
+      "processing_time_seconds": 15
+    },
+    {
+      "image_filename": "mcocr_public_145013bomoz.jpg",
+      "success": true,
+      "task_id": "f2971ea0-5a45-458d-abef-2ed40f27ae57",
+      "scan_result": {
+        "merchant": "Co.opMart XA LO HA NOI",
+        "items": [
+          {
+            "sku": "08934841902822",
+            "name": "Suati DLADYcaokhoe cd goi",
+            "quantity": 5.0,
+            "unit_price": 5000.0,
+            "total_price": 25000.0
+          },
+          {
+            "sku": "00000002951862",
+            "name": "Quýt đường loại 1 kg",
+            "quantity": 0.67,
+            "unit_price": 52000.0,
+            "total_price": 34840.0
+          },
+          {
+            "sku": "00000002951943",
+            "name": "Táo bí đỏ New Zealand kg",
+            "quantity": 0.61,
+            "unit_price": 54500.0,
+            "total_price": 33245.0
+          },
+          {
+            "sku": "08936052001462",
+            "name": "Kiwi vàng New Zealand hộp",
+            "quantity": 1.0,
+            "unit_price": 56500.0,
+            "total_price": 56500.0
+          }
+        ],
+        "total_quantity": 8.0,
+        "total_payment": 149585.0,
+        "receipt_date": "2020-06-23T18:21:00"
+      },
+      "timestamp": "2025-06-16T08:33:35.553783",
+      "processing_time_seconds": 21
+    },
+    {
+      "image_filename": "mcocr_public_145013borvc.jpg",
+      "success": true,
+      "task_id": "b35cbf54-9710-4a9b-8e11-9edfb16f06be",
+      "scan_result": {
+        "merchant": "THE COFFEE HOUSE",
+        "items": [
+          {
+            "sku": "",
+            "name": "Cà Phê Đen Đá (Vừa)",
+            "quantity": 1.0,
+            "unit_price": 35000.0,
+            "total_price": 35000.0
+          },
+          {
+            "sku": "",
+            "name": "Bánh Mì Que",
+            "quantity": 2.0,
+            "unit_price": 10000.0,
+            "total_price": 20000.0
+          },
+          {
+            "sku": "",
+            "name": "Oolong Sen An Nhiên - Đá (Vừa)",
+            "quantity": 1.0,
+            "unit_price": 52000.0,
+            "total_price": 52000.0
+          }
+        ],
+        "total_quantity": 4.0,
+        "total_payment": 101000.0,
+        "receipt_date": "2020-10-01T09:14:00"
+      },
+      "timestamp": "2025-06-16T08:33:34.512896",
+      "processing_time_seconds": 12
+    },
+    {
+      "image_filename": "mcocr_public_145013bpcpt.jpg",
+      "success": true,
+      "task_id": "4542294c-2822-44b0-8b26-999b5b739198",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "8850157511681",
+            "name": "Bánh que thịt xông khói Doakbua 55g",
+            "quantity": 3.0,
+            "unit_price": 16000.0,
+            "total_price": 48000.0
+          }
+        ],
+        "total_quantity": 3.0,
+        "total_payment": 48000.0,
+        "receipt_date": "2020-08-15T11:03:00"
+      },
+      "timestamp": "2025-06-16T08:33:49.770128",
+      "processing_time_seconds": 15
+    },
+    {
+      "image_filename": "mcocr_public_145013bsywa.jpg",
+      "success": true,
+      "task_id": "a65f61db-661b-4e35-9ca9-160946a32a94",
+      "scan_result": {
+        "merchant": "MINIMART ANAN",
+        "items": [
+          {
+            "sku": "291006330000",
+            "name": "Nước C2 trà xanh 360ml NT",
+            "quantity": 6.0,
+            "unit_price": 5166.0,
+            "total_price": 30996.0
+          },
+          {
+            "sku": "291022850000",
+            "name": "8936048471248 NT",
+            "quantity": 10.0,
+            "unit_price": 3200.0,
+            "total_price": 32000.0
+          }
+        ],
+        "total_quantity": 16.0,
+        "total_payment": 62996.0,
+        "receipt_date": "2020-08-12T08:03:00"
+      },
+      "timestamp": "2025-06-16T08:33:46.726485",
+      "processing_time_seconds": 11
+    },
+    {
+      "image_filename": "mcocr_public_145013bvmvl.jpg",
+      "success": true,
+      "task_id": "f1c45a57-58d0-4916-b8fb-4f510c64f774",
+      "scan_result": {
+        "merchant": "MINIMART ANAN",
+        "items": [
+          {
+            "sku": "291016540000",
+            "name": "Sữa kun cam, dâu 110ml NT",
+            "quantity": 48.0,
+            "unit_price": 3855.0,
+            "total_price": 185040.0
+          },
+          {
+            "sku": "291007210000",
+            "name": "Sữa đặc ông thọ đỏ, xanh VN NT",
+            "quantity": 1.0,
+            "unit_price": 22000.0,
+            "total_price": 22000.0
+          },
+          {
+            "sku": "291015940000",
+            "name": "Núm vú pigeon trắng NT",
+            "quantity": 1.0,
+            "unit_price": 20000.0,
+            "total_price": 20000.0
+          }
+        ],
+        "total_quantity": 50.0,
+        "total_payment": 227040.0,
+        "receipt_date": "2020-08-16T21:18:00"
+      },
+      "timestamp": "2025-06-16T08:33:58.923115",
+      "processing_time_seconds": 12
+    },
+    {
+      "image_filename": "mcocr_public_145013bxoir.jpg",
+      "success": true,
+      "task_id": "02a9f2d4-6b0b-4a8b-96cf-a278e0d4166d",
+      "scan_result": {
+        "merchant": "Cửa hàng Năm Oánh",
+        "items": [
+          {
+            "sku": null,
+            "name": "Bánh mỳ ruốc KĐ 80g",
+            "quantity": 1.0,
+            "unit_price": 10000.0,
+            "total_price": 10000.0
+          }
+        ],
+        "total_quantity": 1.0,
+        "total_payment": 10000.0,
+        "receipt_date": "2020-08-12T00:00:00"
+      },
+      "timestamp": "2025-06-16T08:33:58.921097",
+      "processing_time_seconds": 9
+    },
+    {
+      "image_filename": "mcocr_public_145013bykuv.jpg",
+      "success": true,
+      "task_id": "7dc7aa20-313c-4b4d-9170-c8f690034393",
+      "scan_result": {
+        "merchant": "THỨC COFFEE",
+        "items": [
+          {
+            "sku": "",
+            "name": "COFFEE WITH MILK ICE",
+            "quantity": 1.0,
+            "unit_price": 35000.0,
+            "total_price": 35000.0
+          }
+        ],
+        "total_quantity": 1.0,
+        "total_payment": 35000.0,
+        "receipt_date": "2019-03-31T10:43:00"
+      },
+      "timestamp": "2025-06-16T08:34:08.079847",
+      "processing_time_seconds": 9
+    },
+    {
+      "image_filename": "mcocr_public_145013bynnh.jpg",
+      "success": true,
+      "task_id": "3b9bc176-d3ef-43a0-9b42-d37977fcb45a",
+      "scan_result": {
+        "merchant": "Cửa hàng Năm Oánh",
+        "items": [
+          {
+            "sku": "SON55632",
+            "name": "Simply 5 L/4",
+            "quantity": 1.0,
+            "unit_price": 210000.0,
+            "total_price": 210000.0
+          }
+        ],
+        "total_quantity": 1.0,
+        "total_payment": 210000.0,
+        "receipt_date": "2020-08-12T00:00:00"
+      },
+      "timestamp": "2025-06-16T08:34:23.302428",
+      "processing_time_seconds": 17
+    },
+    {
+      "image_filename": "mcocr_public_145013byufi.jpg",
+      "success": true,
+      "task_id": "f2ac2005-9f1b-4240-a76c-3c7dc38d19b9",
+      "scan_result": {
+        "merchant": "ADIDAS",
+        "items": [
+          {
+            "sku": "",
+            "name": "ADVANTAGE Size 7",
+            "quantity": 1.0,
+            "unit_price": 1700000.0,
+            "total_price": 1360000.0
+          }
+        ],
+        "total_quantity": 1.0,
+        "total_payment": 1360000.0,
+        "receipt_date": "2020-01-22T16:49:00"
+      },
+      "timestamp": "2025-06-16T08:34:17.212691",
+      "processing_time_seconds": 9
+    },
+    {
+      "image_filename": "mcocr_public_145013cawuf.jpg",
+      "success": true,
+      "task_id": "72a8e4c2-ed74-40cb-ab7c-150261d4a749",
+      "scan_result": {
+        "merchant": "THỨC COFFEE",
+        "items": [
+          {
+            "sku": "",
+            "name": "COFFEE WITH MILK ICE",
+            "quantity": 2.0,
+            "unit_price": 35000.0,
+            "total_price": 70000.0
+          }
+        ],
+        "total_quantity": 2.0,
+        "total_payment": 70000.0,
+        "receipt_date": "2019-03-31T14:21:00"
+      },
+      "timestamp": "2025-06-16T08:34:26.348883",
+      "processing_time_seconds": 9
+    },
+    {
+      "image_filename": "mcocr_public_145013chgcz.jpg",
+      "success": true,
+      "task_id": "21eab464-0777-45c7-809b-fac03abb0420",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "2607695016460",
+            "name": "Cam Cara ruột đỏ Úc",
+            "quantity": 1.646,
+            "unit_price": 99900.0,
+            "total_price": 164435.0
+          }
+        ],
+        "total_quantity": 1.0,
+        "total_payment": 164435.0,
+        "receipt_date": "2020-08-10T09:31:00"
+      },
+      "timestamp": "2025-06-16T08:34:32.447214",
+      "processing_time_seconds": 9
+    },
+    {
+      "image_filename": "mcocr_public_145013cixex.jpg",
+      "success": true,
+      "task_id": "b1d1f6c3-9090-4e5e-afd6-9bd8fa1b2baf",
+      "scan_result": {
+        "merchant": "MINIMART ANAN",
+        "items": [
+          {
+            "sku": "291005610000",
+            "name": "Mì omachi tôm 79g NT",
+            "quantity": 5.0,
+            "unit_price": 6000.0,
+            "total_price": 30000.0
+          },
+          {
+            "sku": "8935265210029",
+            "name": "Bánh mềm belgic túi 24 NT",
+            "quantity": 1.0,
+            "unit_price": 24000.0,
+            "total_price": 24000.0
+          },
+          {
+            "sku": "8934680113885",
+            "name": "Bánh cosy túi 576g NT",
+            "quantity": 1.0,
+            "unit_price": 47000.0,
+            "total_price": 47000.0
+          },
+          {
+            "sku": "8936136161150",
+            "name": "Tương ớt chinsu chai 500g N0",
+            "quantity": 1.0,
+            "unit_price": 20000.0,
+            "total_price": 20000.0
+          },
+          {
+            "sku": "291009160000",
+            "name": "Tương ớt chinsu 250g NT",
+            "quantity": 1.0,
+            "unit_price": 12000.0,
+            "total_price": 12000.0
+          },
+          {
+            "sku": "291015620000",
+            "name": "Sốt mayonnaise aji amayon NT",
+            "quantity": 1.0,
+            "unit_price": 30000.0,
+            "total_price": 30000.0
+          },
+          {
+            "sku": "8934673604826",
+            "name": "Sữa chua Probi VNM 100g NT",
+            "quantity": 48.0,
+            "unit_price": 6500.0,
+            "total_price": 312000.0
+          }
+        ],
+        "total_quantity": 58.0,
+        "total_payment": 475000.0,
+        "receipt_date": "2020-08-17T17:28:00"
+      },
+      "timestamp": "2025-06-16T08:34:45.727792",
+      "processing_time_seconds": 19
+    },
+    {
+      "image_filename": "mcocr_public_145013cuwqi.jpg",
+      "success": true,
+      "task_id": "e95d64da-a4ff-4b4d-8576-44fa2b53f300",
+      "scan_result": {
+        "merchant": "Siêu Thị Minh Loan",
+        "items": [
+          {
+            "sku": "",
+            "name": "Bột bắp TAIKY",
+            "quantity": 1.0,
+            "unit_price": 9000.0,
+            "total_price": 9000.0
+          },
+          {
+            "sku": "",
+            "name": "Bột chiên giòn Meizan",
+            "quantity": 1.0,
+            "unit_price": 7000.0,
+            "total_price": 7000.0
+          },
+          {
+            "sku": "",
+            "name": "Thịt Thăn Heo Xông Khói Lifefood 200g",
+            "quantity": 1.0,
+            "unit_price": 52000.0,
+            "total_price": 52000.0
+          }
+        ],
+        "total_quantity": 3.0,
+        "total_payment": 68000.0,
+        "receipt_date": "2020-08-14T20:36:00"
+      },
+      "timestamp": "2025-06-16T08:34:44.649826",
+      "processing_time_seconds": 12
+    },
+    {
+      "image_filename": "mcocr_public_145013ddcph.jpg",
+      "success": true,
+      "task_id": "e6dcab66-67a7-4d69-80c3-daaa2abe3df2",
+      "scan_result": {
+        "merchant": "MINIMART ANAN",
+        "items": [
+          {
+            "sku": "8934673575348",
+            "name": "Sữa đàn bò VNM socola 180ml NT",
+            "quantity": 8.0,
+            "unit_price": 6750.0,
+            "total_price": 54000.0
+          },
+          {
+            "sku": "291008190000",
+            "name": "Sữa TH true milk đường 110ml NT",
+            "quantity": 4.0,
+            "unit_price": 5000.0,
+            "total_price": 20000.0
+          }
+        ],
+        "total_quantity": 12.0,
+        "total_payment": 74000.0,
+        "receipt_date": "2020-08-11T08:06:00"
+      },
+      "timestamp": "2025-06-16T08:34:55.923628",
+      "processing_time_seconds": 11
+    },
+    {
+      "image_filename": "mcocr_public_145013dkgbh.jpg",
+      "success": true,
+      "task_id": "735f7d5f-b2b6-4fd5-a7ef-e3b5d8bbf457",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "8936057560032",
+            "name": "Trứng gà tươi Dabaco hộp 10 quả",
+            "quantity": 1.0,
+            "unit_price": 25600.0,
+            "total_price": 25600.0
+          }
+        ],
+        "total_quantity": 1.0,
+        "total_payment": 25600.0,
+        "receipt_date": "2020-08-15T11:04:00"
+      },
+      "timestamp": "2025-06-16T08:34:58.961000",
+      "processing_time_seconds": 13
+    },
+    {
+      "image_filename": "mcocr_public_145013dnwxv.jpg",
+      "success": true,
+      "task_id": "ffcb8401-8d44-48d7-b021-29e1a8dbdd6d",
+      "scan_result": {
+        "merchant": "Minimart ANAN",
+        "items": [
+          {
+            "sku": "8938506170892",
+            "name": "Bánh trứng tươi chà bông ka NO",
+            "quantity": 1.0,
+            "unit_price": 30000.0,
+            "total_price": 30000.0
+          },
+          {
+            "sku": "8934988020038",
+            "name": "Dầu Simply 2L NT",
+            "quantity": 1.0,
+            "unit_price": 88000.0,
+            "total_price": 88000.0
+          }
+        ],
+        "total_quantity": 2.0,
+        "total_payment": 118000.0,
+        "receipt_date": "2020-08-16T17:36:00"
+      },
+      "timestamp": "2025-06-16T08:35:07.087592",
+      "processing_time_seconds": 11
+    },
+    {
+      "image_filename": "mcocr_public_145013drlui.jpg",
+      "success": true,
+      "task_id": "a81a6319-4049-4e02-a70a-a58286c6e841",
+      "scan_result": {
+        "merchant": "Cửa hàng Năm Oánh",
+        "items": [
+          {
+            "sku": "",
+            "name": "Bimbim Swing + O&#39;star + Toonies",
+            "quantity": 2.0,
+            "unit_price": 6000.0,
+            "total_price": 12000.0
+          },
+          {
+            "sku": "",
+            "name": "Tương ớt Chinsu 500g",
+            "quantity": 1.0,
+            "unit_price": 20000.0,
+            "total_price": 20000.0
+          },
+          {
+            "sku": "",
+            "name": "Yomost Bạc hà Việt quất 170ml",
+            "quantity": 8.0,
+            "unit_price": 6250.0,
+            "total_price": 50000.0
+          }
+        ],
+        "total_quantity": 11.0,
+        "total_payment": 82000.0,
+        "receipt_date": "2020-08-12T00:00:00"
+      },
+      "timestamp": "2025-06-16T08:35:13.167005",
+      "processing_time_seconds": 14
+    },
+    {
+      "image_filename": "mcocr_public_145013dwbmu.jpg",
+      "success": true,
+      "task_id": "620b5a82-e171-4902-96ea-2a04a84beb33",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "8935058962067",
+            "name": "CP_Xương ống 500g",
+            "quantity": 10.0,
+            "unit_price": 20000.0,
+            "total_price": 200000.0
+          }
+        ],
+        "total_quantity": 10.0,
+        "total_payment": 200000.0,
+        "receipt_date": "2020-08-15T07:20:00"
+      },
+      "timestamp": "2025-06-16T08:35:21.272470",
+      "processing_time_seconds": 14
+    },
+    {
+      "image_filename": "mcocr_public_145013ebiff.jpg",
+      "success": true,
+      "task_id": "3080775f-8b87-4be6-b229-1f24913c32c0",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "9556001198839",
+            "name": "KITKAT Socola Chunky 38g",
+            "quantity": 1.0,
+            "unit_price": 16700.0,
+            "total_price": 16700.0
+          },
+          {
+            "sku": "8850388520445",
+            "name": "Trà Sữa Bale Matcha Milk Tea 230ml",
+            "quantity": 1.0,
+            "unit_price": 15000.0,
+            "total_price": 15000.0
+          }
+        ],
+        "total_quantity": 2.0,
+        "total_payment": 31700.0,
+        "receipt_date": "2020-08-13T20:25:00"
+      },
+      "timestamp": "2025-06-16T08:35:23.314614",
+      "processing_time_seconds": 10
+    },
+    {
+      "image_filename": "mcocr_public_145013ecfzg.jpg",
+      "success": true,
+      "task_id": "782f59f8-2713-4313-a90f-154753ab634e",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "8935058962104",
+            "name": "CP Thịt heo xay 300g",
+            "quantity": 1.0,
+            "unit_price": 49500.0,
+            "total_price": 49500.0
+          },
+          {
+            "sku": "8934678400018",
+            "name": "SAFOCO Bánh tráng Việt Nam gói 200g",
+            "quantity": 1.0,
+            "unit_price": 13000.0,
+            "total_price": 13000.0
+          }
+        ],
+        "total_quantity": 2.0,
+        "total_payment": 62500.0,
+        "receipt_date": "2020-08-15T09:22:00"
+      },
+      "timestamp": "2025-06-16T08:35:32.461816",
+      "processing_time_seconds": 11
+    },
+    {
+      "image_filename": "mcocr_public_145013eekwk.jpg",
+      "success": true,
+      "task_id": "a3746319-be4b-48e5-992f-51d978158c19",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "8934588233074",
+            "name": "Nước tăng lực Sting dâu tây đỏ chai 330ml",
+            "quantity": 1.0,
+            "unit_price": 10200.0,
+            "total_price": 10200.0
+          },
+          {
+            "sku": "8935049510680",
+            "name": "Nước giải khát chanh Sprite chai 390ml",
+            "quantity": 1.0,
+            "unit_price": 7000.0,
+            "total_price": 7000.0
+          },
+          {
+            "sku": "8935049510697",
+            "name": "Nước giải khát cam Fanta chai 390ml",
+            "quantity": 1.0,
+            "unit_price": 7000.0,
+            "total_price": 7000.0
+          },
+          {
+            "sku": "8935049510673",
+            "name": "Nước GK có gas Coca Cola chai 390ml",
+            "quantity": 1.0,
+            "unit_price": 7000.0,
+            "total_price": 7000.0
+          },
+          {
+            "sku": "8935112200005",
+            "name": "Nước uống tăng lực Redbull 124 lonx250ml",
+            "quantity": 1.0,
+            "unit_price": 9200.0,
+            "total_price": 9200.0
+          },
+          {
+            "sku": "8934868133421",
+            "name": "Lifebuoy NRT BV vượt trội 10 180G",
+            "quantity": 1.0,
+            "unit_price": 31000.0,
+            "total_price": 31000.0
+          }
+        ],
+        "total_quantity": 6.0,
+        "total_payment": 71000.0,
+        "receipt_date": "2020-08-12T21:11:00"
+      },
+      "timestamp": "2025-06-16T08:35:42.582597",
+      "processing_time_seconds": 19
+    },
+    {
+      "image_filename": "mcocr_public_145013esetg.jpg",
+      "success": true,
+      "task_id": "e6e61106-46c1-4783-a3ae-cdaf4b324fb8",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "8936057560032",
+            "name": "Trứng gà tươi Dabaco hộp 10 quả",
+            "quantity": 2.0,
+            "unit_price": 25600.0,
+            "total_price": 51200.0
+          },
+          {
+            "sku": "2656971010685",
+            "name": "VMNK Táo Ruby Star NZL PG Size 90-120",
+            "quantity": 1.068,
+            "unit_price": 64600.0,
+            "total_price": 68993.0
+          }
+        ],
+        "total_quantity": 3.0,
+        "total_payment": 98085.0,
+        "receipt_date": "2020-08-14T18:56:00"
+      },
+      "timestamp": "2025-06-16T08:35:47.652696",
+      "processing_time_seconds": 15
+    },
+    {
+      "image_filename": "mcocr_public_145013gguch.jpg",
+      "success": true,
+      "task_id": "1534a917-554d-4c10-a89e-be5f2d811d6a",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "8934868142584",
+            "name": "CLEAR Dầu gội thảo dược 630g",
+            "quantity": 1.0,
+            "unit_price": 178000.0,
+            "total_price": 178000.0
+          },
+          {
+            "sku": "8935212800754",
+            "name": "GERVENNE ST trắng n.hoa tơ sữa dê 900g",
+            "quantity": 1.0,
+            "unit_price": 108000.0,
+            "total_price": 108000.0
+          },
+          {
+            "sku": "8850006932193",
+            "name": "COLGATE KR ngừa sâu răng 250g+bc",
+            "quantity": 1.0,
+            "unit_price": 35000.0,
+            "total_price": 35000.0
+          },
+          {
+            "sku": "8934954008060",
+            "name": "VMHOME Sữa RT dưỡng ẩm hương cà phê 500g",
+            "quantity": 1.0,
+            "unit_price": 39000.0,
+            "total_price": 39000.0
+          },
+          {
+            "sku": "8935058962043",
+            "name": "CP Sườn già heo 300g",
+            "quantity": 1.0,
+            "unit_price": 39900.0,
+            "total_price": 39900.0
+          },
+          {
+            "sku": "8935058962036",
+            "name": "CP Sườn non heo 300g",
+            "quantity": 1.0,
+            "unit_price": 74500.0,
+            "total_price": 74500.0
+          },
+          {
+            "sku": "8935058962005",
+            "name": "CP Thịt ba rọi có da 300g",
+            "quantity": 1.0,
+            "unit_price": 66500.0,
+            "total_price": 66500.0
+          },
+          {
+            "sku": "8935058962098",
+            "name": "CP Móng heo 500g",
+            "quantity": 1.0,
+            "unit_price": 54500.0,
+            "total_price": 54500.0
+          },
+          {
+            "sku": "8935058962081",
+            "name": "CP Bắp giò heo không xương 300g",
+            "quantity": 1.0,
+            "unit_price": 51500.0,
+            "total_price": 51500.0
+          }
+        ],
+        "total_quantity": 9.0,
+        "total_payment": 600900.0,
+        "receipt_date": "2020-08-14T16:30:00"
+      },
+      "timestamp": "2025-06-16T08:36:15.082983",
+      "processing_time_seconds": 32
+    },
+    {
+      "image_filename": "mcocr_public_145013guoun.jpg",
+      "success": true,
+      "task_id": "d3818de1-d684-4e08-beb3-8685147b0eba",
+      "scan_result": {
+        "merchant": "MINIMART ANAN",
+        "items": [
+          {
+            "sku": "8938506170892",
+            "name": "bánh trứng tươi chà bông ka NO",
+            "quantity": 1.0,
+            "unit_price": 30000.0,
+            "total_price": 30000.0
+          },
+          {
+            "sku": "8936096670013",
+            "name": "Bánh gạo one ngọt 150g NT",
+            "quantity": 1.0,
+            "unit_price": 13000.0,
+            "total_price": 13000.0
+          },
+          {
+            "sku": "8935039513264",
+            "name": "Bột chiên Aji quick hải sản NT",
+            "quantity": 1.0,
+            "unit_price": 9000.0,
+            "total_price": 9000.0
+          },
+          {
+            "sku": "291041810000",
+            "name": "hướng dương tẩm vị gói 500g NO",
+            "quantity": 1.0,
+            "unit_price": 42000.0,
+            "total_price": 42000.0
+          }
+        ],
+        "total_quantity": 4.0,
+        "total_payment": 94000.0,
+        "receipt_date": "2020-08-17T14:36:00"
+      },
+      "timestamp": "2025-06-16T08:36:02.871315",
+      "processing_time_seconds": 15
+    },
+    {
+      "image_filename": "mcocr_public_145013hewxu.jpg",
+      "success": true,
+      "task_id": "d5004073-c03c-4626-a755-98ff85b85410",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "8936057560087",
+            "name": "Trứng gà J Dabaco giỏ 10 quả",
+            "quantity": 1.0,
+            "unit_price": 41400.0,
+            "total_price": 41400.0
+          },
+          {
+            "sku": "893457072000019",
+            "name": "VISSAN Pate thịt heo Vissan hộp 170g",
+            "quantity": 1.0,
+            "unit_price": 28500.0,
+            "total_price": 28500.0
+          },
+          {
+            "sku": "2603124000840",
+            "name": "Hành lá L1 Vineco",
+            "quantity": 1.0,
+            "unit_price": 4200.0,
+            "total_price": 4200.0
+          }
+        ],
+        "total_quantity": 3.0,
+        "total_payment": 74100.0,
+        "receipt_date": "2020-08-15T09:48:00"
+      },
+      "timestamp": "2025-06-16T08:36:16.116363",
+      "processing_time_seconds": 13
+    },
+    {
+      "image_filename": "mcocr_public_145013hrtto.jpg",
+      "success": true,
+      "task_id": "24042b77-60c1-4c99-9c3f-0a4c7e664c28",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "8936078571604",
+            "name": "BẢO NGỌC Burger nhân gà teriyaki 70g",
+            "quantity": 1.0,
+            "unit_price": 8000.0,
+            "total_price": 8000.0
+          },
+          {
+            "sku": "8934673700047",
+            "name": "SN VNM Nguyên chất F220ml",
+            "quantity": 1.0,
+            "unit_price": 3900.0,
+            "total_price": 3900.0
+          }
+        ],
+        "total_quantity": 2.0,
+        "total_payment": 11900.0,
+        "receipt_date": "2020-08-14T22:16:00"
+      },
+      "timestamp": "2025-06-16T08:36:25.270355",
+      "processing_time_seconds": 10
+    },
+    {
+      "image_filename": "mcocr_public_145013jiksh.jpg",
+      "success": true,
+      "task_id": "4b7cfeca-ca8e-4dd6-892c-9b941c02ca23",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "8934988020045",
+            "name": "SIMPLY Dầu đậu nành can 5L T4",
+            "quantity": 1.0,
+            "unit_price": 243400.0,
+            "total_price": 243400.0
+          }
+        ],
+        "total_quantity": 1.0,
+        "total_payment": 243400.0,
+        "receipt_date": "2020-08-12T16:05:00"
+      },
+      "timestamp": "2025-06-16T08:36:25.273445",
+      "processing_time_seconds": 9
+    },
+    {
+      "image_filename": "mcocr_public_145013jjaqc.jpg",
+      "success": true,
+      "task_id": "a52b5499-ed7d-4fc8-b84d-f7f8d51b543a",
+      "scan_result": {
+        "merchant": "SIEU THI BACH HOA TONG HOP",
+        "items": [
+          {
+            "sku": "8934868139447",
+            "name": "Gel tẩy rửa bồn cầu và nhà tắm Vim tr T2",
+            "quantity": 1.0,
+            "unit_price": 35200.0,
+            "total_price": 35200.0
+          },
+          {
+            "sku": "291186470000",
+            "name": "Vỉ chắn bếp ga 51x88cm NT",
+            "quantity": 1.0,
+            "unit_price": 24500.0,
+            "total_price": 24500.0
+          },
+          {
+            "sku": "6957959600413",
+            "name": "Vỉ lót bếp ga vuông + tròn 3801 + 4001 NT",
+            "quantity": 2.0,
+            "unit_price": 13000.0,
+            "total_price": 26000.0
+          }
+        ],
+        "total_quantity": 4.0,
+        "total_payment": 85700.0,
+        "receipt_date": "2020-08-10T09:00:00"
+      },
+      "timestamp": "2025-06-16T08:36:39.472214",
+      "processing_time_seconds": 14
+    },
+    {
+      "image_filename": "mcocr_public_145013jtjmc.jpg",
+      "success": true,
+      "task_id": "e8bbc5bc-5ce0-48ad-b759-93e1672b8fd7",
+      "scan_result": {
+        "merchant": "PHỞ MỠ",
+        "items": [
+          {
+            "sku": "",
+            "name": "Trà chanh",
+            "quantity": 4.0,
+            "unit_price": 10000.0,
+            "total_price": 40000.0
+          },
+          {
+            "sku": "",
+            "name": "Thăng long",
+            "quantity": 1.0,
+            "unit_price": 10000.0,
+            "total_price": 10000.0
+          }
+        ],
+        "total_quantity": 5.0,
+        "total_payment": 50000.0,
+        "receipt_date": "2020-08-13T21:21:00"
+      },
+      "timestamp": "2025-06-16T08:36:36.429076",
+      "processing_time_seconds": 11
+    },
+    {
+      "image_filename": "mcocr_public_145013kfxqd.jpg",
+      "success": true,
+      "task_id": "c1f55ed1-d9d9-4f0d-9d4b-ef8400d02c7c",
+      "scan_result": {
+        "merchant": "MINIMART ANAN",
+        "items": [
+          {
+            "sku": "291008020000",
+            "name": "Sữa túi fino đường VNM NT",
+            "quantity": 48.0,
+            "unit_price": 6375.0,
+            "total_price": 306000.0
+          },
+          {
+            "sku": "291008340000",
+            "name": "SCU susu chai cam VNM 80ml NT",
+            "quantity": 6.0,
+            "unit_price": 4000.0,
+            "total_price": 24000.0
+          },
+          {
+            "sku": "291030070000",
+            "name": "SCU susu chai táo nho VNM80 NT",
+            "quantity": 6.0,
+            "unit_price": 4000.0,
+            "total_price": 24000.0
+          },
+          {
+            "sku": "291008090000",
+            "name": "Sữa fristi táo NT",
+            "quantity": 6.0,
+            "unit_price": 3667.0,
+            "total_price": 22002.0
+          },
+          {
+            "sku": "291008360000",
+            "name": "SCU susu chai dâu VNM 80ml NT",
+            "quantity": 6.0,
+            "unit_price": 4000.0,
+            "total_price": 24000.0
+          }
+        ],
+        "total_quantity": 72.0,
+        "total_payment": 400002.0,
+        "receipt_date": "2020-08-11T20:41:00"
+      },
+      "timestamp": "2025-06-16T08:36:52.638697",
+      "processing_time_seconds": 16
+    },
+    {
+      "image_filename": "mcocr_public_145013kzjew.jpg",
+      "success": true,
+      "task_id": "edd0d895-16a4-439e-9501-91e8b4bdb43c",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "4046234767315",
+            "name": "Cà phê tan cao cấp Family Tchibo lọ 200g",
+            "quantity": 1.0,
+            "unit_price": 184500.0,
+            "total_price": 184500.0
+          }
+        ],
+        "total_quantity": 1.0,
+        "total_payment": 184500.0,
+        "receipt_date": "2020-08-14T15:33:00"
+      },
+      "timestamp": "2025-06-16T08:36:51.600936",
+      "processing_time_seconds": 12
+    },
+    {
+      "image_filename": "mcocr_public_145013laizk.jpg",
+      "success": true,
+      "task_id": "8feed43c-dd50-441b-af69-bb0e9ebc2421",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "8809146202253",
+            "name": "Kẹo Socola Rock 2 Scissor Paper oẳn tù tì",
+            "quantity": 1.0,
+            "unit_price": 46800.0,
+            "total_price": 46800.0
+          },
+          {
+            "sku": "8809405520159",
+            "name": "Kẹo Socola Rock 2 kiếm",
+            "quantity": 1.0,
+            "unit_price": 71200.0,
+            "total_price": 71200.0
+          }
+        ],
+        "total_quantity": 2.0,
+        "total_payment": 118000.0,
+        "receipt_date": "2020-08-15T11:41:00"
+      },
+      "timestamp": "2025-06-16T08:37:03.777007",
+      "processing_time_seconds": 12
+    },
+    {
+      "image_filename": "mcocr_public_145013lplfx.jpg",
+      "success": true,
+      "task_id": "8b726461-97f5-4c99-b9d6-da0f03f5c9ce",
+      "scan_result": {
+        "merchant": "MINIMART ANAN",
+        "items": [
+          {
+            "sku": "8934755010026",
+            "name": "BVS Diana dày cánh NT",
+            "quantity": 2.0,
+            "unit_price": 16000.0,
+            "total_price": 32000.0
+          },
+          {
+            "sku": "8934755010156",
+            "name": "BVS Diana mỏng cánh NT",
+            "quantity": 2.0,
+            "unit_price": 17000.0,
+            "total_price": 34000.0
+          },
+          {
+            "sku": "893467303369",
+            "name": "Sữa đậu nành Goldsoy 200ml NT",
+            "quantity": 10.0,
+            "unit_price": 3300.0,
+            "total_price": 33000.0
+          },
+          {
+            "sku": "8934673501354",
+            "name": "Sữa túi Fino không đường VN NT",
+            "quantity": 2.0,
+            "unit_price": 6500.0,
+            "total_price": 13000.0
+          }
+        ],
+        "total_quantity": 16.0,
+        "total_payment": 112000.0,
+        "receipt_date": "2020-08-16T17:59:00"
+      },
+      "timestamp": "2025-06-16T08:37:05.823193",
+      "processing_time_seconds": 13
+    },
+    {
+      "image_filename": "mcocr_public_145013lukaj.jpg",
+      "success": true,
+      "task_id": "2c75c5a1-67a5-41d8-9c65-2cd63d9c08df",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "8935039570151",
+            "name": "Cà Phê Lon Birdy Robusta 170Ml T30",
+            "quantity": 1.0,
+            "unit_price": 10000.0,
+            "total_price": 10000.0
+          }
+        ],
+        "total_quantity": 1.0,
+        "total_payment": 10000.0,
+        "receipt_date": "2020-08-13T10:11:00"
+      },
+      "timestamp": "2025-06-16T08:37:12.915188",
+      "processing_time_seconds": 9
+    },
+    {
+      "image_filename": "mcocr_public_145013mbytl.jpg",
+      "success": true,
+      "task_id": "1e30a9f6-6725-4cca-9b2e-7dcc98ba4db5",
+      "scan_result": {
+        "merchant": "MINIMART ANAN",
+        "items": [
+          {
+            "sku": "8934572281623",
+            "name": "chả con tôm vissan 300g NO",
+            "quantity": 1.0,
+            "unit_price": 47000.0,
+            "total_price": 47000.0
+          }
+        ],
+        "total_quantity": 1.0,
+        "total_payment": 47000.0,
+        "receipt_date": "2020-08-12T13:24:00"
+      },
+      "timestamp": "2025-06-16T08:37:13.938530",
+      "processing_time_seconds": 8
+    },
+    {
+      "image_filename": "mcocr_public_145013mmpgk.jpg",
+      "success": true,
+      "task_id": "66dbbef7-ac1b-4870-815d-7ae81cfb52c7",
+      "scan_result": {
+        "merchant": "PHỞ MỠ",
+        "items": [
+          {
+            "sku": "",
+            "name": "Matcha",
+            "quantity": 1.0,
+            "unit_price": 25000.0,
+            "total_price": 25000.0
+          },
+          {
+            "sku": "",
+            "name": "Trà chanh nha đam",
+            "quantity": 1.0,
+            "unit_price": 15000.0,
+            "total_price": 15000.0
+          },
+          {
+            "sku": "",
+            "name": "Trà Chanh Con Cá",
+            "quantity": 2.0,
+            "unit_price": 15000.0,
+            "total_price": 30000.0
+          },
+          {
+            "sku": "",
+            "name": "Hương dương dừa",
+            "quantity": 1.0,
+            "unit_price": 12000.0,
+            "total_price": 12000.0
+          }
+        ],
+        "total_quantity": 5.0,
+        "total_payment": 82000.0,
+        "receipt_date": "2020-08-13T20:05:00"
+      },
+      "timestamp": "2025-06-16T08:37:25.140938",
+      "processing_time_seconds": 12
+    },
+    {
+      "image_filename": "mcocr_public_145013mwcaz.jpg",
+      "success": true,
+      "task_id": "18d5bde6-80f4-4323-ae88-c71edf481ddc",
+      "scan_result": {
+        "merchant": "Không rõ",
+        "items": [
+          {
+            "sku": "",
+            "name": "Tổng trước thuế",
+            "quantity": 1.0,
+            "unit_price": 8163268.0,
+            "total_price": 8163268.0
+          },
+          {
+            "sku": "",
+            "name": "Tổng thuế",
+            "quantity": 1.0,
+            "unit_price": 698080.0,
+            "total_price": 698080.0
+          },
+          {
+            "sku": "",
+            "name": "Tổng sau thuế",
+            "quantity": 1.0,
+            "unit_price": 8861348.0,
+            "total_price": 8861348.0
+          }
+        ],
+        "total_quantity": 3.0,
+        "total_payment": 8994348.0,
+        "receipt_date": "2020-08-09T22:19:00"
+      },
+      "timestamp": "2025-06-16T08:37:28.195577",
+      "processing_time_seconds": 14
+    },
+    {
+      "image_filename": "mcocr_public_145013mwqpu.jpg",
+      "success": true,
+      "task_id": "932d922c-527f-4428-8db1-ad0c126de8d7",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "8938500075117",
+            "name": "Măng Lay Tây Bắc Kim Bột 300g",
+            "quantity": 1.0,
+            "unit_price": 35000.0,
+            "total_price": 35000.0
+          },
+          {
+            "sku": "8936013233918",
+            "name": "SG Food Nước Dùng Côặc Vị Lẩu Thái 150gr",
+            "quantity": 1.0,
+            "unit_price": 17700.0,
+            "total_price": 17700.0
+          }
+        ],
+        "total_quantity": 2.0,
+        "total_payment": 52700.0,
+        "receipt_date": "2020-08-14T16:22:00"
+      },
+      "timestamp": "2025-06-16T08:37:36.305277",
+      "processing_time_seconds": 11
+    },
+    {
+      "image_filename": "mcocr_public_145013mylmw.jpg",
+      "success": true,
+      "task_id": "d2d1fd35-b72e-42aa-a315-4086512470ca",
+      "scan_result": {
+        "merchant": "MINIMART ANAN",
+        "items": [
+          {
+            "sku": "8934755010156",
+            "name": "BVS diana mỏng cánh NT",
+            "quantity": 2.0,
+            "unit_price": 17000.0,
+            "total_price": 34000.0
+          }
+        ],
+        "total_quantity": 2.0,
+        "total_payment": 34000.0,
+        "receipt_date": "2020-08-16T17:29:00"
+      },
+      "timestamp": "2025-06-16T08:37:38.340034",
+      "processing_time_seconds": 10
+    },
+    {
+      "image_filename": "mcocr_public_145013ngzwi.jpg",
+      "success": true,
+      "task_id": "b62af600-d414-4075-9485-537dc532212c",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "8936077500087",
+            "name": "Trứng gà J Dabaco giỏ 10 quả",
+            "quantity": 1.0,
+            "unit_price": 41400.0,
+            "total_price": 41400.0
+          },
+          {
+            "sku": "893457072000019",
+            "name": "VISSAN Pate thịt heo Vissan hộp 170g",
+            "quantity": 1.0,
+            "unit_price": 28500.0,
+            "total_price": 28500.0
+          },
+          {
+            "sku": "2603124000840",
+            "name": "Hành lá L1 Vineco",
+            "quantity": 1.0,
+            "unit_price": 4200.0,
+            "total_price": 4200.0
+          }
+        ],
+        "total_quantity": 3.0,
+        "total_payment": 74100.0,
+        "receipt_date": "2020-08-15T09:48:00"
+      },
+      "timestamp": "2025-06-16T08:37:48.489822",
+      "processing_time_seconds": 12
+    },
+    {
+      "image_filename": "mcocr_public_145013njeuf.jpg",
+      "success": true,
+      "task_id": "dce15f7c-5f0a-41f2-8ba7-4ae864eb046b",
+      "scan_result": {
+        "merchant": "NHÀ SÁCH GD-TC CẨM PHẢ",
+        "items": [
+          {
+            "sku": "",
+            "name": "Ô đẹp",
+            "quantity": 1.0,
+            "unit_price": 110000.0,
+            "total_price": 110000.0
+          },
+          {
+            "sku": "",
+            "name": "Bút TL 093",
+            "quantity": 1.0,
+            "unit_price": 55000.0,
+            "total_price": 55000.0
+          },
+          {
+            "sku": "",
+            "name": "Hồ khô - 97166",
+            "quantity": 1.0,
+            "unit_price": 8000.0,
+            "total_price": 8000.0
+          },
+          {
+            "sku": "",
+            "name": "Xóa TL to",
+            "quantity": 1.0,
+            "unit_price": 20000.0,
+            "total_price": 20000.0
+          },
+          {
+            "sku": "",
+            "name": "VBT địa 9/1",
+            "quantity": 1.0,
+            "unit_price": 28000.0,
+            "total_price": 28000.0
+          },
+          {
+            "sku": "",
+            "name": "VBT GDCD 9/1",
+            "quantity": 1.0,
+            "unit_price": 25000.0,
+            "total_price": 25000.0
+          },
+          {
+            "sku": "",
+            "name": "VBT sinh 9/1 - SP",
+            "quantity": 1.0,
+            "unit_price": 25000.0,
+            "total_price": 25000.0
+          }
+        ],
+        "total_quantity": 7.0,
+        "total_payment": 271000.0,
+        "receipt_date": "2020-08-11T10:56:00"
+      },
+      "timestamp": "2025-06-16T08:37:58.653388",
+      "processing_time_seconds": 20
+    },
+    {
+      "image_filename": "mcocr_public_145013njyzj.jpg",
+      "success": true,
+      "task_id": "de99dd0f-6249-4204-baaa-ab1376ea339d",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "2600088003221",
+            "name": "Rau ngót",
+            "quantity": 0.322,
+            "unit_price": 40000.0,
+            "total_price": 12880.0
+          },
+          {
+            "sku": "2605147006069",
+            "name": "Bắp cải trái tim DL L1 MT",
+            "quantity": 0.606,
+            "unit_price": 32000.0,
+            "total_price": 19392.0
+          }
+        ],
+        "total_quantity": 2.0,
+        "total_payment": 32272.0,
+        "receipt_date": "2020-08-10T07:36:00"
+      },
+      "timestamp": "2025-06-16T08:37:58.657287",
+      "processing_time_seconds": 10
+    },
+    {
+      "image_filename": "mcocr_public_145013nkpao.jpg",
+      "success": true,
+      "task_id": "6333766b-7e5e-4181-a989-eadc9bd3e91e",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "012546011112",
+            "name": "TRIDENT Kẹo gum KĐ trái cây 26.6g",
+            "quantity": 1.0,
+            "unit_price": 25500.0,
+            "total_price": 25500.0
+          }
+        ],
+        "total_quantity": 1.0,
+        "total_payment": 25500.0,
+        "receipt_date": "2020-08-15T09:16:00"
+      },
+      "timestamp": "2025-06-16T08:38:07.812968",
+      "processing_time_seconds": 9
+    },
+    {
+      "image_filename": "mcocr_public_145013ohrly.jpg",
+      "success": true,
+      "task_id": "499bc4f8-c310-4a9a-be63-d32fb006762f",
+      "scan_result": {
+        "merchant": "THE COFFEE HOUSE",
+        "items": [
+          {
+            "sku": "",
+            "name": "Cà Phê Sữa Đá (Vừa)",
+            "quantity": 1.0,
+            "unit_price": 35000.0,
+            "total_price": 35000.0
+          },
+          {
+            "sku": "",
+            "name": "Bánh Mì Gà Kim Quất (Không Cay)",
+            "quantity": 1.0,
+            "unit_price": 32000.0,
+            "total_price": 32000.0
+          }
+        ],
+        "total_quantity": 2.0,
+        "total_payment": 49000.0,
+        "receipt_date": "2020-08-16T08:51:00"
+      },
+      "timestamp": "2025-06-16T08:38:10.863771",
+      "processing_time_seconds": 12
+    },
+    {
+      "image_filename": "mcocr_public_145013otqcx.jpg",
+      "success": true,
+      "task_id": "5f267e61-ea50-4ce7-8de3-6a93d9eb50ee",
+      "scan_result": {
+        "merchant": "MINIMART ANAN",
+        "items": [
+          {
+            "sku": "291039890000",
+            "name": "mì kokomi mì 90 NO",
+            "quantity": 30.0,
+            "unit_price": 3167.0,
+            "total_price": 95010.0
+          },
+          {
+            "sku": "291014730000",
+            "name": "Tăm V NT",
+            "quantity": 5.0,
+            "unit_price": 1000.0,
+            "total_price": 5000.0
+          }
+        ],
+        "total_quantity": 35.0,
+        "total_payment": 100010.0,
+        "receipt_date": "2020-08-13T01:42:00"
+      },
+      "timestamp": "2025-06-16T08:38:18.965459",
+      "processing_time_seconds": 11
+    },
+    {
+      "image_filename": "mcocr_public_145013oxnpr.jpg",
+      "success": true,
+      "task_id": "ce57e4d4-0ba1-408a-9679-c4174589610e",
+      "scan_result": {
+        "merchant": "MINIMART ANAN",
+        "items": [
+          {
+            "sku": "8934839126223",
+            "name": "KDR PS ngừa sâu răng 120g NT",
+            "quantity": 1.0,
+            "unit_price": 12000.0,
+            "total_price": 12000.0
+          },
+          {
+            "sku": "8934839124045",
+            "name": "KDR PS bảo vệ 123 than hoạt NO",
+            "quantity": 1.0,
+            "unit_price": 28000.0,
+            "total_price": 28000.0
+          },
+          {
+            "sku": "8934868111818",
+            "name": "ST lai boi tất cả các loại NT",
+            "quantity": 1.0,
+            "unit_price": 48000.0,
+            "total_price": 48000.0
+          },
+          {
+            "sku": "291002680000",
+            "name": "DG clear dây NT",
+            "quantity": 1.0,
+            "unit_price": 14000.0,
+            "total_price": 14000.0
+          },
+          {
+            "sku": "291015760000",
+            "name": "DG Dove dây NT",
+            "quantity": 1.0,
+            "unit_price": 14000.0,
+            "total_price": 14000.0
+          }
+        ],
+        "total_quantity": 5.0,
+        "total_payment": 116000.0,
+        "receipt_date": "2020-08-15T16:48:00"
+      },
+      "timestamp": "2025-06-16T08:38:29.140159",
+      "processing_time_seconds": 18
+    },
+    {
+      "image_filename": "mcocr_public_145013ozjnr.jpg",
+      "success": true,
+      "task_id": "69190d07-f891-4de6-9b22-d716febd3263",
+      "scan_result": {
+        "merchant": "MINIMART ANAN",
+        "items": [
+          {
+            "sku": "8936012060843",
+            "name": "Sữa Mộc Châu 110ml NT",
+            "quantity": 12.0,
+            "unit_price": 4375.0,
+            "total_price": 52500.0
+          },
+          {
+            "sku": "8934673137324",
+            "name": "Sữa ADM đường 110ml NT",
+            "quantity": 12.0,
+            "unit_price": 4250.0,
+            "total_price": 51000.0
+          }
+        ],
+        "total_quantity": 24.0,
+        "total_payment": 103500.0,
+        "receipt_date": "2020-08-12T16:22:00"
+      },
+      "timestamp": "2025-06-16T08:38:30.173258",
+      "processing_time_seconds": 11
+    },
+    {
+      "image_filename": "mcocr_public_145013pqnzb.jpg",
+      "success": true,
+      "task_id": "b50e346c-2365-477f-b25c-f981be5d898d",
+      "scan_result": {
+        "merchant": "MINIMART ANAN",
+        "items": [
+          {
+            "sku": "8934755014154",
+            "name": "BVS Diana hàng ngày 12k NT",
+            "quantity": 1.0,
+            "unit_price": 13000.0,
+            "total_price": 13000.0
+          },
+          {
+            "sku": "8934755016035",
+            "name": "BVS Libera 8p NT",
+            "quantity": 4.0,
+            "unit_price": 8000.0,
+            "total_price": 32000.0
+          },
+          {
+            "sku": "291003580000",
+            "name": "DX Sunsilk dây NT",
+            "quantity": 2.0,
+            "unit_price": 10000.0,
+            "total_price": 20000.0
+          },
+          {
+            "sku": "291003330000",
+            "name": "DG Sunsilk dây NT",
+            "quantity": 1.0,
+            "unit_price": 10000.0,
+            "total_price": 10000.0
+          },
+          {
+            "sku": "8934868147473",
+            "name": "NRC sunlight chanh túi 1.4l NT",
+            "quantity": 1.0,
+            "unit_price": 30000.0,
+            "total_price": 30000.0
+          }
+        ],
+        "total_quantity": 9.0,
+        "total_payment": 105000.0,
+        "receipt_date": "2020-08-12T12:10:00"
+      },
+      "timestamp": "2025-06-16T08:38:43.355245",
+      "processing_time_seconds": 14
+    },
+    {
+      "image_filename": "mcocr_public_145013qeejy.jpg",
+      "success": true,
+      "task_id": "b90731d3-eaf2-4859-8190-2105fb7537d0",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "8936011775403",
+            "name": "Kem que Yeah cacao T42",
+            "quantity": 1.0,
+            "unit_price": 12500.0,
+            "total_price": 12500.0
+          }
+        ],
+        "total_quantity": 1.0,
+        "total_payment": 12500.0,
+        "receipt_date": "2020-08-14T14:54:00"
+      },
+      "timestamp": "2025-06-16T08:38:41.307169",
+      "processing_time_seconds": 11
+    },
+    {
+      "image_filename": "mcocr_public_145013rtjsr.jpg",
+      "success": true,
+      "task_id": "05a40749-79af-4437-8ef0-9a050c66d334",
+      "scan_result": {
+        "merchant": "Co.opMart XA LO HA NOI",
+        "items": [
+          {
+            "sku": "08934841902822",
+            "name": "Suatt DLADYCAOKHOE cd goi",
+            "quantity": 10.0,
+            "unit_price": 5400.0,
+            "total_price": 54000.0
+          },
+          {
+            "sku": "08934614030431",
+            "name": "SDN FAMI canxi bich 200ml",
+            "quantity": 10.0,
+            "unit_price": 3600.0,
+            "total_price": 36000.0
+          },
+          {
+            "sku": "09556001227461",
+            "name": "Choco KITKAT Greentea 8x1",
+            "quantity": 1.0,
+            "unit_price": 70000.0,
+            "total_price": 70000.0
+          },
+          {
+            "sku": "08801062006205",
+            "name": "B.CHOCO-PIE Lotte txanh h",
+            "quantity": 1.0,
+            "unit_price": 57000.0,
+            "total_price": 57000.0
+          },
+          {
+            "sku": "00000002951939",
+            "name": "Tao Fuji Nam Phi kg",
+            "quantity": 0.322,
+            "unit_price": 48900.0,
+            "total_price": 15745.8
+          },
+          {
+            "sku": "00000002951850",
+            "name": "Tao do New Zealand kg",
+            "quantity": 0.492,
+            "unit_price": 48900.0,
+            "total_price": 24058.8
+          },
+          {
+            "sku": "00000002950911",
+            "name": "Ca chua kg",
+            "quantity": 0.304,
+            "unit_price": 20500.0,
+            "total_price": 6232.0
+          },
+          {
+            "sku": "00000002951808",
+            "name": "Thanh Long PThiet L1",
+            "quantity": 0.528,
+            "unit_price": 31000.0,
+            "total_price": 16368.0
+          },
+          {
+            "sku": "08936013680033",
+            "name": "Trung ga 10t/hop-V.food",
+            "quantity": 1.0,
+            "unit_price": 26000.0,
+            "total_price": 26000.0
+          }
+        ],
+        "total_quantity": 27.0,
+        "total_payment": 305404.6,
+        "receipt_date": "2020-07-03T19:07:00"
+      },
+      "timestamp": "2025-06-16T08:39:11.738260",
+      "processing_time_seconds": 30
+    },
+    {
+      "image_filename": "mcocr_public_145013rttzk.jpg",
+      "success": true,
+      "task_id": "1722cbc4-21c1-4dca-bf02-a036e6ef9025",
+      "scan_result": {
+        "merchant": "THE COFFEE HOUSE",
+        "items": [
+          {
+            "sku": "",
+            "name": "Oolong Sen An - Nhiên - Đá (Vừa)",
+            "quantity": 1.0,
+            "unit_price": 52000.0,
+            "total_price": 52000.0
+          }
+        ],
+        "total_quantity": 1.0,
+        "total_payment": 52000.0,
+        "receipt_date": "2020-10-01T09:40:00"
+      },
+      "timestamp": "2025-06-16T08:38:53.471414",
+      "processing_time_seconds": 10
+    },
+    {
+      "image_filename": "mcocr_public_145013rtwyd.jpg",
+      "success": true,
+      "task_id": "14b57108-9efd-4e8b-a545-4e553323f6b6",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "8935058962012",
+            "name": "CP Thịt vai heo 300g",
+            "quantity": 1.0,
+            "unit_price": 45500.0,
+            "total_price": 45500.0
+          }
+        ],
+        "total_quantity": 1.0,
+        "total_payment": 45500.0,
+        "receipt_date": "2020-08-14T17:32:00"
+      },
+      "timestamp": "2025-06-16T08:39:02.591394",
+      "processing_time_seconds": 9
+    },
+    {
+      "image_filename": "mcocr_public_145014ancat.jpg",
+      "success": true,
+      "task_id": "6cfde796-c65d-40a4-92f0-3ff686e8bd3b",
+      "scan_result": {
+        "merchant": "SCTC Cổ Thọ 104 Trần Phú - Cẩm Phả",
+        "items": [
+          {
+            "sku": "",
+            "name": "Sữa chua kiwi",
+            "quantity": 2.0,
+            "unit_price": 35000.0,
+            "total_price": 70000.0
+          },
+          {
+            "sku": "",
+            "name": "Sữa chua việt quất",
+            "quantity": 1.0,
+            "unit_price": 35000.0,
+            "total_price": 35000.0
+          },
+          {
+            "sku": "",
+            "name": "Nha đam",
+            "quantity": 1.0,
+            "unit_price": 10000.0,
+            "total_price": 10000.0
+          },
+          {
+            "sku": "",
+            "name": "Trân châu đường đen",
+            "quantity": 1.0,
+            "unit_price": 10000.0,
+            "total_price": 10000.0
+          },
+          {
+            "sku": "",
+            "name": "Sữa chua nha đam",
+            "quantity": 1.0,
+            "unit_price": 30000.0,
+            "total_price": 30000.0
+          }
+        ],
+        "total_quantity": 6.0,
+        "total_payment": 155000.0,
+        "receipt_date": "2020-08-10T19:35:00"
+      },
+      "timestamp": "2025-06-16T08:39:14.786849",
+      "processing_time_seconds": 12
+    },
+    {
+      "image_filename": "mcocr_public_145014apodg.jpg",
+      "success": true,
+      "task_id": "c44022e5-6dcc-4750-bcdf-ffe1a3d4640f",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "8935058962128",
+            "name": "CP_Xương đuôi 500g",
+            "quantity": 4.0,
+            "unit_price": 40000.0,
+            "total_price": 160000.0
+          }
+        ],
+        "total_quantity": 4.0,
+        "total_payment": 160000.0,
+        "receipt_date": "2020-08-14T18:01:00"
+      },
+      "timestamp": "2025-06-16T08:39:19.865944",
+      "processing_time_seconds": 8
+    },
+    {
+      "image_filename": "mcocr_public_145014armln.jpg",
+      "success": true,
+      "task_id": "557c5cc3-2d99-497f-97c9-0269bfcde828",
+      "scan_result": {
+        "merchant": "LahaCafe",
+        "items": [
+          {
+            "sku": null,
+            "name": "Arabica Cold Brew M",
+            "quantity": 1.0,
+            "unit_price": 30000.0,
+            "total_price": 30000.0
+          }
+        ],
+        "total_quantity": 1.0,
+        "total_payment": 15000.0,
+        "receipt_date": "2020-10-09T18:42:00"
+      },
+      "timestamp": "2025-06-16T08:39:21.903128",
+      "processing_time_seconds": 7
+    },
+    {
+      "image_filename": "mcocr_public_145014avuac.jpg",
+      "success": true,
+      "task_id": "c75ca470-416b-4fde-9f3d-91cdbf3248b3",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "8936084590026",
+            "name": "Unclejax bắp rang vị bơ 80gt56",
+            "quantity": 1.0,
+            "unit_price": 22000.0,
+            "total_price": 22000.0
+          }
+        ],
+        "total_quantity": 1.0,
+        "total_payment": 22000.0,
+        "receipt_date": "2020-08-15T11:07:00"
+      },
+      "timestamp": "2025-06-16T08:39:29.007882",
+      "processing_time_seconds": 9
+    },
+    {
+      "image_filename": "mcocr_public_145014ayhsu.jpg",
+      "success": true,
+      "task_id": "ba9cb96d-1eb0-40a8-9732-339c43030ed6",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "3086120600389",
+            "name": "BIC Bật lửa J3-màu",
+            "quantity": 1.0,
+            "unit_price": 10000.0,
+            "total_price": 10000.0
+          }
+        ],
+        "total_quantity": 1.0,
+        "total_payment": 10000.0,
+        "receipt_date": "2020-08-13T17:31:00"
+      },
+      "timestamp": "2025-06-16T08:39:31.047996",
+      "processing_time_seconds": 9
+    },
+    {
+      "image_filename": "mcocr_public_145014bdeah.jpg",
+      "success": true,
+      "task_id": "6194b60a-90ab-4199-9d78-8acc613823eb",
+      "scan_result": {
+        "merchant": "CHAMPI",
+        "items": [
+          {
+            "sku": "",
+            "name": "Xôi Trắng",
+            "quantity": 1.0,
+            "unit_price": 10000.0,
+            "total_price": 10000.0
+          },
+          {
+            "sku": "",
+            "name": "Xôi Trắng (Phần thêm)",
+            "quantity": 1.0,
+            "unit_price": 3000.0,
+            "total_price": 3000.0
+          },
+          {
+            "sku": "",
+            "name": "Thịt Xá xíu",
+            "quantity": 1.0,
+            "unit_price": 8000.0,
+            "total_price": 8000.0
+          },
+          {
+            "sku": "",
+            "name": "Xôi Nấm",
+            "quantity": 1.0,
+            "unit_price": 15000.0,
+            "total_price": 15000.0
+          },
+          {
+            "sku": "",
+            "name": "Thịt cuộn",
+            "quantity": 1.0,
+            "unit_price": 8000.0,
+            "total_price": 8000.0
+          }
+        ],
+        "total_quantity": 5.0,
+        "total_payment": 39600.0,
+        "receipt_date": "2019-06-02T19:24:00"
+      },
+      "timestamp": "2025-06-16T08:39:41.216324",
+      "processing_time_seconds": 12
+    },
+    {
+      "image_filename": "mcocr_public_145014bfesf.jpg",
+      "success": true,
+      "task_id": "35bc10c7-3b47-4641-bdfb-042e20e9486c",
+      "scan_result": {
+        "merchant": "Cửa hàng Năm Oánh",
+        "items": [
+          {
+            "sku": null,
+            "name": "TL Thăng Long Mềm",
+            "quantity": 2.0,
+            "unit_price": 8300.0,
+            "total_price": 16600.0
+          }
+        ],
+        "total_quantity": 2.0,
+        "total_payment": 16600.0,
+        "receipt_date": "2020-08-11T00:00:00"
+      },
+      "timestamp": "2025-06-16T08:39:39.157089",
+      "processing_time_seconds": 8
+    },
+    {
+      "image_filename": "mcocr_public_145014bfwhz.jpg",
+      "success": true,
+      "task_id": "e23de84f-5950-42db-aa64-ff5156341588",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "8935049501503",
+            "name": "COCA NƯỚC giải khát 330/320ml T24",
+            "quantity": 1.0,
+            "unit_price": 9500.0,
+            "total_price": 9500.0
+          }
+        ],
+        "total_quantity": 1.0,
+        "total_payment": 8400.0,
+        "receipt_date": "2020-08-14T19:19:00"
+      },
+      "timestamp": "2025-06-16T08:39:48.305439",
+      "processing_time_seconds": 9
+    },
+    {
+      "image_filename": "mcocr_public_145014bvfay.jpg",
+      "success": true,
+      "task_id": "924c5d69-b9be-4e8d-a6ba-737fdab6a821",
+      "scan_result": {
+        "merchant": "Cửa hàng Năm Oánh",
+        "items": [
+          {
+            "sku": null,
+            "name": "Mì chính Ajinomoto 1kg",
+            "quantity": 1.0,
+            "unit_price": 62000.0,
+            "total_price": 62000.0
+          },
+          {
+            "sku": null,
+            "name": "Hạt nêm Chin su 900g",
+            "quantity": 1.0,
+            "unit_price": 37000.0,
+            "total_price": 37000.0
+          }
+        ],
+        "total_quantity": 2.0,
+        "total_payment": 99000.0,
+        "receipt_date": "2020-08-12T00:00:00"
+      },
+      "timestamp": "2025-06-16T08:39:51.394668",
+      "processing_time_seconds": 10
+    },
+    {
+      "image_filename": "mcocr_public_145014bxyhq.jpg",
+      "success": true,
+      "task_id": "c48907e7-fd9c-40ac-96f7-b2c0c41504ab",
+      "scan_result": {
+        "merchant": "MINIMART ANAN",
+        "items": [
+          {
+            "sku": "291009420000",
+            "name": "Thuốc lá Thăng Long mềm NT",
+            "quantity": 10.0,
+            "unit_price": 8300.0,
+            "total_price": 83000.0
+          }
+        ],
+        "total_quantity": 10.0,
+        "total_payment": 83000.0,
+        "receipt_date": "2020-08-17T15:30:00"
+      },
+      "timestamp": "2025-06-16T08:39:57.501070",
+      "processing_time_seconds": 9
+    },
+    {
+      "image_filename": "mcocr_public_145014caxiq.jpg",
+      "success": true,
+      "task_id": "bc56cd3e-d962-4c48-925a-6a8a4188d24e",
+      "scan_result": {
+        "merchant": "VinCommerce",
+        "items": [
+          {
+            "sku": "8935049500506",
+            "name": "Dasani khoáng 500ml (Nilon)",
+            "quantity": 1.0,
+            "unit_price": 5000.0,
+            "total_price": 5000.0
+          }
+        ],
+        "total_quantity": 1.0,
+        "total_payment": 5000.0,
+        "receipt_date": "2020-08-12T21:20:00"
+      },
+      "timestamp": "2025-06-16T08:40:02.562015",
+      "processing_time_seconds": 11
+    },
+    {
+      "image_filename": "mcocr_public_145014cfwkp.jpg",
+      "success": true,
+      "task_id": "c0b450d3-c567-45e5-9a32-e186b1e8f839",
+      "scan_result": {
+        "merchant": "Cửa hàng Năm Oánh",
+        "items": [
+          {
+            "sku": "",
+            "name": "Mỳ Lẩu Thái tôm 80g",
+            "quantity": 2.0,
+            "unit_price": 5200.0,
+            "total_price": 10400.0
+          },
+          {
+            "sku": "",
+            "name": "Mỳ cung đình SH",
+            "quantity": 2.0,
+            "unit_price": 5600.0,
+            "total_price": 11200.0
+          },
+          {
+            "sku": "",
+            "name": "Mỳ tôm Dim Dim tôm và gà",
+            "quantity": 2.0,
+            "unit_price": 2800.0,
+            "total_price": 5600.0
+          },
+          {
+            "sku": "",
+            "name": "Mỳ 3 miền Tôm chua cay 75g",
+            "quantity": 2.0,
+            "unit_price": 3200.0,
+            "total_price": 6400.0
+          },
+          {
+            "sku": "",
+            "name": "Mắm Nam ngư 750ml",
+            "quantity": 1.0,
+            "unit_price": 34000.0,
+            "total_price": 34000.0
+          }
+        ],
+        "total_quantity": 9.0,
+        "total_payment": 67600.0,
+        "receipt_date": "2020-08-12T00:00:00"
+      },
+      "timestamp": "2025-06-16T08:40:12.711556",
+      "processing_time_seconds": 15
+    },
+    {
+      "image_filename": "mcocr_public_145014cmdbw.jpg",
+      "success": true,
+      "task_id": "1e3c97d7-05e9-4a71-89a4-6fb34434f513",
+      "scan_result": {
+        "merchant": "THE COFFEE HOUSE",
+        "items": [
+          {
+            "sku": "",
+            "name": "Croissant Trứng muối",
+            "quantity": 1.0,
+            "unit_price": 35000.0,
+            "total_price": 35000.0
+          },
+          {
+            "sku": "",
+            "name": "Bánh Mì Chà Bông Phô Mai",
+            "quantity": 1.0,
+            "unit_price": 32000.0,
+            "total_price": 32000.0
+          },
+          {
+            "sku": "",
+            "name": "Bánh Bông Lan Trứng Muối",
+            "quantity": 1.0,
+            "unit_price": 29000.0,
+            "total_price": 29000.0
+          },
+          {
+            "sku": "",
+            "name": "Trà Sữa Mắc Ca Trân Châu Trắng (Lớn)",
+            "quantity": 1.0,
+            "unit_price": 55000.0,
+            "total_price": 55000.0
+          }
+        ],
+        "total_quantity": 4.0,
+        "total_payment": 121000.0,
+        "receipt_date": "2020-11-08T09:23:00"
+      },
+      "timestamp": "2025-06-16T08:40:18.792748",
+      "processing_time_seconds": 16
+    },
+    {
+      "image_filename": "mcocr_public_145014ubwmd.jpg",
+      "success": true,
+      "task_id": "f20a7dfa-f0f1-4e34-ad85-485479c00d79",
+      "scan_result": {
+        "merchant": "THE COFFEE HOUSE",
+        "items": [
+          {
+            "sku": null,
+            "name": "Bạc Xỉu (Nhỏ)",
+            "quantity": 1,
+            "unit_price": 32000,
+            "total_price": 32000
+          }
+        ],
+        "total_quantity": 1,
+        "total_payment": 32000,
+        "receipt_date": "2020-10-02T12:14:00"
+      },
+      "timestamp": "2025-06-16T08:40:18.792748",
+      "processing_time_seconds": 10
+    }
+  ]
+}
